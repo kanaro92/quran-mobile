@@ -1,0 +1,58 @@
+export default [
+    {
+        "surat_number": 1,
+        "juzz": "الجزء Tumbutere 1",
+        "surat": "سورة الفاتحة Simoore Udditirnde",
+        "juzz_number": 1,
+        "ar_title": "الفاتحة",
+        "pr_title": "Udditirnde",
+        "ayat_number": 7,
+        "ayat_img": require("./images/ayat/7.png"),
+        "ayat_url": "http://abousy.com/quran_audio/1_Fatiha.mp3",
+        "page_number": 1,
+        "size": 1308,
+        "ayats_list": require("./ayats/1-faatih")
+    },
+    {
+        "surat_number": 112,
+        "juzz": "الجزء Tumbutere 30",
+        "surat": "سورة الإخلاص Simoore Laɓɓinoore",
+        "juzz_number": 30,
+        "ar_title": "الإخلاص",
+        "pr_title": "Laɓɓinoore",
+        "ayat_number": 4,
+        "ayat_img": require("./images/ayat/4.png"),
+        "ayat_url": "http://abousy.com/quran_audio/112_AlIkhlas.mp3",
+        "page_number": 112,
+        "size": 504,
+        "ayats_list": require("./ayats/112-al-ikhlaas")
+    },
+    {
+        "surat_number": 113,
+        "juzz": "الجزء Tumbutere 30",
+        "surat": "سورة الفلق Simoore Weetndooga",
+        "juzz_number": 30,
+        "ar_title": "الفلق",
+        "pr_title": "Weetndooga",
+        "ayat_number": 5,
+        "ayat_img": require("./images/ayat/5.png"),
+        "ayat_url": "http://abousy.com/quran_audio/113_AlFalaq.mp3",
+        "page_number": 113,
+        "size": 684,
+        "ayats_list": require("./ayats/113-al-falaq")
+    },
+    {
+        "surat_number": 114,
+        "juzz": "الجزء Tumbutere 30",
+        "surat": "سورة الناس Simoore Yimɓe",
+        "juzz_number": 30,
+        "ar_title": "الناس",
+        "pr_title": "Yimɓe",
+        "ayat_number": 6,
+        "ayat_img": require("./images/ayat/6.png"),
+        "ayat_url": "http://abousy.com/quran_audio/114_AnNas.mp3",
+        "page_number": 114,
+        "size": 864,
+        "ayats_list": require("./ayats/114-an-naas")
+    },
+]
