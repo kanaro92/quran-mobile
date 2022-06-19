@@ -1,7 +1,7 @@
 export const ayats = [
     {
         "number": 0,
-        "ar_ayat": "بِسْم",
+        "ar_ayat": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم",
         "pr_ayat": "E innde alla Jurumdeero Jurmotooɗo",
         "img": "",
         "startTime": 1,
