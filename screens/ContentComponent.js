@@ -40,8 +40,12 @@ class ContentComponent extends PureComponent {
         return (
             <View>
                 <View style={styles.juzz}>
-                    <Text style={styles.juzz_text}>{this.props.item.juzz}</Text>
-                    <Text style={styles.juzz_text}>{this.props.item.surat}</Text>
+                    <Text style={styles.juzz_text}>سورة {this.props.item.ar_title}</Text>
+                    <Text style={styles.juzz_text}>الجزء {this.props.item.juzz_number}</Text>
+                </View>
+                <View style={styles.juzz}>
+                    <Text style={styles.juzz_text}>Simoore {this.props.item.pr_title}</Text>
+                    <Text style={styles.juzz_text}>Tumbutere {this.props.item.juzz_number}</Text>
                 </View>
                 <View style={styles.body}>
                     <ImageBackground source={require('../images/background.png')} style={styles.backGroundImage}>
@@ -391,7 +395,7 @@ const styles = StyleSheet.create({
         marginLeft: 22,
         marginRight: 5,
         width: '96%',
-        height: 50,
+        height: 30,
     },
     content: {
         marginLeft: 10,
@@ -457,8 +461,8 @@ const styles = StyleSheet.create({
         fontSize: 16,
     },
     juzz: {
-        paddingLeft: 5,
-        paddingRight: 5,
+        paddingLeft: 10,
+        paddingRight: 10,
         flexDirection: 'row',
         justifyContent: 'space-between'
     },
