@@ -448,7 +448,6 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'stretch',
         alignContent: 'stretch',
-        paddingTop: 8
     },
     ar_title_text: {
         marginTop: 5,

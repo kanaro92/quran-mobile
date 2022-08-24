@@ -18,7 +18,6 @@ import AppHeader from './screens/AppHeader';
 import Content from './screens/ContentComponent';
 import {appService} from './service/app-service';
 import prompt from "react-native-prompt-android";
-import AsyncStorage from "@react-native-community/async-storage";
 import registrationApi from "./api/registration";
 import {Bars} from 'react-native-loader';
 import {TIMEOUT_ERROR} from "apisauce";
@@ -32,6 +31,7 @@ import Pressable from "react-native/Libraries/Components/Pressable/Pressable";
 import {FontAwesomeIcon} from "@fortawesome/react-native-fontawesome";
 import {faArrowCircleLeft, faPhoneAlt} from "@fortawesome/free-solid-svg-icons";
 import SoundPlayer from "react-native-sound-player";
+
 
 const {width, height} = Dimensions.get('screen');
 
@@ -86,6 +86,9 @@ class QuranPulaarApp extends Component {
                         <View style={styles.spinner_view}>
                             <Bars size={40} color="#60b17d"/>
                         </View>
+                        <View style={styles.loading_view}>
+                            <Text style={styles.loading_text}> Sabbo seeɗa  ...</Text>
+                        </View>
                     </ImageBackground>
                     :
                     <View>
@@ -95,7 +98,13 @@ class QuranPulaarApp extends Component {
                             ref={(ref) => {
                                 this.flatListRef = ref;
                             }}
-                            initialNumToRender={3}
+                            initialNumToRender={this.state.sourates.length}
+                            onScrollToIndexFailed={info => {
+                                const wait = new Promise(resolve => setTimeout(resolve, 500));
+                                wait.then(() => {
+                                    this.flatListRef.current?.scrollToIndex({ index: info.index, animated: true });
+                                });
+                            }}
                             keyExtractor={item => item.surat_number.toString()}
                             horizontal
                             pagingEnabled
@@ -240,8 +249,10 @@ class QuranPulaarApp extends Component {
                     this.setState({
                         sourates: allSourates
                     });
-                    this.setState({
-                        spinner: false
+                    this.sleep(40000).then(() => {
+                        this.setState({
+                            spinner: false
+                        });
                     });
                 } else {
                     this.askForCode();
@@ -367,8 +378,10 @@ class QuranPulaarApp extends Component {
             sourates: allSourates
         });
         appService.storeData('quranCode', response.data.code.code);
-        this.setState({
-            spinner: false
+        this.sleep(40000).then(() => {
+            this.setState({
+                spinner: false
+            });
         });
     }
 
@@ -387,6 +400,10 @@ class QuranPulaarApp extends Component {
         this.setState({
             isModalVisible: true
         });
+    }
+
+    sleep(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms));
     }
 
     internetIssue(response) {
@@ -449,10 +466,23 @@ const styles = StyleSheet.create({
         alignContent: 'stretch',
         paddingTop: height / 3,
     },
+
+    loading_view: {
+        display: 'flex',
+        flexDirection: 'row',
+        flexWrap: 'nowrap',
+        justifyContent: 'center',
+        alignItems: 'stretch',
+        alignContent: 'stretch'
+    },
     title_text: {
         fontFamily: 'sans-serif-condensed',
         fontWeight: 'bold',
         fontSize: 25,
+    },
+    loading_text: {
+        fontFamily: 'sans-serif-condensed',
+        fontSize: 20,
     },
     spinner_view: {
         flexDirection: "row",
