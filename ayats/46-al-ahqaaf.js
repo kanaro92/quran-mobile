@@ -226,7 +226,7 @@ export const ayats = [
     {
         "number": 21,
         "ar_ayat": "۞ وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍۢ",
-        "pr_ayat": "E jaŋto musiɗɗo Aad tuma nde jeertinnoo leñol mum to " +
+        "pr_ayat": "۞ E jaŋto musiɗɗo Aad tuma nde jeertinnoo leñol mum to " +
             "Ahkhaaf “luggere”, tee e jaati jeertinaali njawtiino ko adii " +
             "mo e caggal makko, “ɓe mbiya” hoto ndewee so wonaa " +
             "Alla tigi-ne miin miɗo hulani on leeɓte ñalngu mawngu ",

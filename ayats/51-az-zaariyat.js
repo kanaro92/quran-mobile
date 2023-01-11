@@ -263,7 +263,7 @@ export const ayats = [
     {
         "number": 31,
         "ar_ayat": "۞ قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ",
-        "pr_ayat": "O wiyi onon kam, hol ko woni koyɗe mon “bolol” onon " +
+        "pr_ayat": "۞ O wiyi onon kam, hol ko woni koyɗe mon “bolol” onon " +
             "ɓee nulaaɓe",
         "img": require("../images/ayat/31.png"),
         "startTime": 1,

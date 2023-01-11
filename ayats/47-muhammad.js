@@ -97,7 +97,7 @@ export const ayats = [
     {
         "number": 10,
         "ar_ayat": "۞ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ دَمَّرَ ٱللَّهُ عَلَيْهِمْ ۖ وَلِلْكَـٰفِرِينَ أَمْثَـٰلُهَا",
-        "pr_ayat": "Mbele ɓe " +
+        "pr_ayat": "۞ Mbele ɓe " +
             "njahaani dow leydi ndi, haa ɓe njiya hono laatorinoo " +
             "battane ɓeen adinooɓe ɓe, Alla firtiɓe, tee ina woodani " +
             "yedduɓe ɓe hono ɗuum",
@@ -337,7 +337,7 @@ export const ayats = [
     {
         "number": 33,
         "ar_ayat": "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَلَا تُبْطِلُوٓا۟ أَعْمَـٰلَكُمْ",
-        "pr_ayat": "Ee-hey mon goongɗinɓe, " +
+        "pr_ayat": "۞ Ee-hey mon goongɗinɓe, " +
             "ɗooftoɗee Alla kadi ɗooftoɗee nulaaɗo, e hoto mbonnee " +
             "golleeji mon",
         "img": require("../images/ayat/33.png"),

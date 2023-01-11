@@ -18,7 +18,7 @@ export const ayats = [
     {
         "number": 2,
         "ar_ayat": "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
-        "pr_ayat": "innde",
+        "pr_ayat": "ine",
         "img": require("../images/ayat/2.png"),
         "startTime": 1,
         "endTime": 2

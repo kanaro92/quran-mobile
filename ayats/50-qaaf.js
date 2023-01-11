@@ -254,7 +254,7 @@ export const ayats = [
     {
         "number": 27,
         "ar_ayat": "۞ قَالَ قَرِينُهُۥ رَبَّنَا مَآ أَطْغَيْتُهُۥ وَلَـٰكِن كَانَ فِى ضَلَـٰلٍۭ بَعِيدٍۢ",
-        "pr_ayat": "Jahdiiɗo makko o wiyi, joomi am mi " +
+        "pr_ayat": "۞ Jahdiiɗo makko o wiyi, joomi am mi " +
             "bewnaani mo, e kono kay o wonnoo ko nder majjere woɗɗunde",
         "img": require("../images/ayat/27.png"),
         "startTime": 1,

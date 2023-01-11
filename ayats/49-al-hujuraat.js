@@ -154,7 +154,7 @@ export const ayats = [
     {
         "number": 14,
         "ar_ayat": "۞ قَالَتِ ٱلْأَعْرَابُ ءَامَنَّا ۖ قُل لَّمْ تُؤْمِنُوا۟ وَلَـٰكِن قُولُوٓا۟ أَسْلَمْنَا وَلَمَّا يَدْخُلِ ٱلْإِيمَـٰنُ فِى قُلُوبِكُمْ ۖ وَإِن تُطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ لَا يَلِتْكُم مِّنْ أَعْمَـٰلِكُمْ شَيْـًٔا ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ",
-        "pr_ayat": "Arabeeɓe dowry mbiyi:" +
+        "pr_ayat": "۞ Arabeeɓe dowry mbiyi:" +
             "min ngoongɗinii, wiy! on ngoongɗinaani tawo kono kay " +
             "mbiyee on njebbiliima, e tawi-ne goongɗingol suwaa " +
             "naatde nder ɓerɗe mon, e so tawii on ɗooftiima Alla e " +

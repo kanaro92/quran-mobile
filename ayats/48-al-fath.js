@@ -196,7 +196,7 @@ export const ayats = [
     {
         "number": 18,
         "ar_ayat": "۞ لَّقَدْ رَضِىَ ٱللَّهُ عَنِ ٱلْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ مَا فِى قُلُوبِهِمْ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيْهِمْ وَأَثَـٰبَهُمْ فَتْحًۭا قَرِيبًۭا",
-        "pr_ayat": "E jaati " +
+        "pr_ayat": "۞ E jaati " +
             "Alla weltaniima goongɗinɓe ɓe, tuma nde ɓe piɓondiri e " +
             "maa les lekki, o anndi ɗuum ko woni nder ɓerɗe mum-en," +
             "o tellini huɓindaare dow mum-en, o yoɓiriɓe udditaare " +
