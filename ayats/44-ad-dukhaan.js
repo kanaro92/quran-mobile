@@ -10,7 +10,7 @@ export const ayats = [
     {
         "number": 1,
         "ar_ayat": "حمٓ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Haa-miim",
         "img": require("../images/ayat/1.png"),
         "startTime": 1,
         "endTime": 2
@@ -18,7 +18,7 @@ export const ayats = [
     {
         "number": 2,
         "ar_ayat": "وَٱلْكِتَـٰبِ ٱلْمُبِينِ",
-        "pr_ayat": "innde",
+        "pr_ayat": "E ndee deftere laaɓtunde",
         "img": require("../images/ayat/2.png"),
         "startTime": 1,
         "endTime": 2
@@ -26,7 +26,7 @@ export const ayats = [
     {
         "number": 3,
         "ar_ayat": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةٍۢ مُّبَـٰرَكَةٍ ۚ إِنَّا كُنَّا مُنذِرِينَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Min telliniinde he jamma ɓurnaaɗo “barkinaaɗo”, minen ko min jeertinooɓe",
         "img": require("../images/ayat/3.png"),
         "startTime": 1,
         "endTime": 2
@@ -34,7 +34,7 @@ export const ayats = [
     {
         "number": 4,
         "ar_ayat": "فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Ko nder maggu feccatee fiyaakuuji ñeeññuɗi",
         "img": require("../images/ayat/4.png"),
         "startTime": 1,
         "endTime": 2
@@ -42,7 +42,7 @@ export const ayats = [
     {
         "number": 5,
         "ar_ayat": "أَمْرًۭا مِّنْ عِندِنَآ ۚ إِنَّا كُنَّا مُرْسِلِينَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Fiyaaku iwɗo to amen, minen ko min nelooɓe",
         "img": require("../images/ayat/5.png"),
         "startTime": 1,
         "endTime": 2
@@ -50,7 +50,7 @@ export const ayats = [
     {
         "number": 6,
         "ar_ayat": "رَحْمَةًۭ مِّن رَّبِّكَ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Yurmeende iwnde to joome, tigi-ne kaŋko ko o nanoowo ganndo",
         "img": require("../images/ayat/6.png"),
         "startTime": 1,
         "endTime": 2
@@ -58,7 +58,7 @@ export const ayats = [
     {
         "number": 7,
         "ar_ayat": "رَبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَآ ۖ إِن كُنتُم مُّوقِنِينَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Jom kammuuji ɗi e leydi ndi e ko woni hakkunde majji, so tawii on laatiima yenanaaɓe",
         "img": require("../images/ayat/7.png"),
         "startTime": 1,
         "endTime": 2
@@ -66,7 +66,7 @@ export const ayats = [
     {
         "number": 8,
         "ar_ayat": "لَآ إِلَـٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ ۖ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Deweteeɗo alaa so wonaa kaŋko, omo wuurna e omo wara, teekaŋko woni joomi mon e joomiraaɗo baabiraaɓe mon adinooɓe",
         "img": require("../images/ayat/8.png"),
         "startTime": 1,
         "endTime": 2
@@ -74,7 +74,7 @@ export const ayats = [
     {
         "number": 9,
         "ar_ayat": "بَلْ هُمْ فِى شَكٍّۢ يَلْعَبُونَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Kono kay kamɓe ko nder sikkitaare ɓe pijata",
         "img": require("../images/ayat/9.png"),
         "startTime": 1,
         "endTime": 2
@@ -82,7 +82,7 @@ export const ayats = [
     {
         "number": 10,
         "ar_ayat": "فَٱرْتَقِبْ يَوْمَ تَأْتِى ٱلسَّمَآءُ بِدُخَانٍۢ مُّبِينٍۢ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Wadde tommbo, ñande kammu ngu addata “yaltinta” cuurki laaɓtuki",
         "img": require("../images/ayat/10.png"),
         "startTime": 1,
         "endTime": 2
@@ -90,7 +90,7 @@ export const ayats = [
     {
         "number": 11,
         "ar_ayat": "يَغْشَى ٱلنَّاسَ ۖ هَـٰذَا عَذَابٌ أَلِيمٌۭ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Aki sudda yimɓe ɓe, ɗum-ɗoo ko leeɓte muusɗe",
         "img": require("../images/ayat/11.png"),
         "startTime": 1,
         "endTime": 2
@@ -98,7 +98,7 @@ export const ayats = [
     {
         "number": 12,
         "ar_ayat": "رَّبَّنَا ٱكْشِفْ عَنَّا ٱلْعَذَابَ إِنَّا مُؤْمِنُونَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Joomi amen huñcan min, ɗee leeɓte, minen ko min goongɗinɓe",
         "img": require("../images/ayat/12.png"),
         "startTime": 1,
         "endTime": 2
@@ -106,7 +106,7 @@ export const ayats = [
     {
         "number": 13,
         "ar_ayat": "أَنَّىٰ لَهُمُ ٱلذِّكْرَىٰ وَقَدْ جَآءَهُمْ رَسُولٌۭ مُّبِينٌۭ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Hoto ngol ciftorgol iwriɓe, tee e jaati ariino to maɓɓe nulaaɗo laaɓtuɗo",
         "img": require("../images/ayat/13.png"),
         "startTime": 1,
         "endTime": 2
@@ -114,7 +114,7 @@ export const ayats = [
     {
         "number": 14,
         "ar_ayat": "ثُمَّ تَوَلَّوْا۟ عَنْهُ وَقَالُوا۟ مُعَلَّمٌۭ مَّجْنُونٌ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Rewti ɓe nduŋtiimo, ɓe mbiyi: ko o jaŋnginaaɗo kaangaaɗo",
         "img": require("../images/ayat/14.png"),
         "startTime": 1,
         "endTime": 2
@@ -122,7 +122,7 @@ export const ayats = [
     {
         "number": 15,
         "ar_ayat": "إِنَّا كَاشِفُوا۟ ٱلْعَذَابِ قَلِيلًا ۚ إِنَّكُمْ عَآئِدُونَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Ko min huñcooɓe leeɓte ɗe haa seeɗa, tigi ne ko ɓe rutittooɓe “waasde goongɗinde”",
         "img": require("../images/ayat/15.png"),
         "startTime": 1,
         "endTime": 2
@@ -130,7 +130,7 @@ export const ayats = [
     {
         "number": 16,
         "ar_ayat": "يَوْمَ نَبْطِشُ ٱلْبَطْشَةَ ٱلْكُبْرَىٰٓ إِنَّا مُنتَقِمُونَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Ñande min njawlotoo jawlannde mawnde nde, minen ko min yoɓtotooɓe",
         "img": require("../images/ayat/16.png"),
         "startTime": 1,
         "endTime": 2
@@ -138,7 +138,7 @@ export const ayats = [
     {
         "number": 17,
         "ar_ayat": "۞ وَلَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَآءَهُمْ رَسُولٌۭ كَرِيمٌ",
-        "pr_ayat": "innde",
+        "pr_ayat": "۞ E jaati min ƴeewninooma ko adiiɓe leñol fir’awna, tee ariino he maɓɓe nulaaɗo tedduɗo",
         "img": require("../images/ayat/17.png"),
         "startTime": 1,
         "endTime": 2
@@ -146,7 +146,7 @@ export const ayats = [
     {
         "number": 18,
         "ar_ayat": "أَنْ أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ ۖ إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
-        "pr_ayat": "innde",
+        "pr_ayat": "“Wiyde” tottee kam jiyaaɓe Alla ɓe, tigi-ne miin, ko mi nelaaɗo koolaaɗo wonande on",
         "img": require("../images/ayat/18.png"),
         "startTime": 1,
         "endTime": 2
@@ -154,7 +154,7 @@ export const ayats = [
     {
         "number": 19,
         "ar_ayat": "وَأَن لَّا تَعْلُوا۟ عَلَى ٱللَّهِ ۖ إِنِّىٓ ءَاتِيكُم بِسُلْطَـٰنٍۢ مُّبِينٍۢ",
-        "pr_ayat": "innde",
+        "pr_ayat": "E nde mbaasaton mawnikinaade dow Alla, tee miin mi addanii on daliilu laaɓtuɗo",
         "img": require("../images/ayat/19.png"),
         "startTime": 1,
         "endTime": 2
@@ -162,7 +162,7 @@ export const ayats = [
     {
         "number": 20,
         "ar_ayat": "وَإِنِّى عُذْتُ بِرَبِّى وَرَبِّكُمْ أَن تَرْجُمُونِ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Tee mi mooliima e joomi am e joomi mon, nde on mberlotaako mi kaaƴe",
         "img": require("../images/ayat/20.png"),
         "startTime": 1,
         "endTime": 2
@@ -170,7 +170,7 @@ export const ayats = [
     {
         "number": 21,
         "ar_ayat": "وَإِن لَّمْ تُؤْمِنُوا۟ لِى فَٱعْتَزِلُونِ",
-        "pr_ayat": "innde",
+        "pr_ayat": "E so tawii on ngoongɗinaani mi, ngoɗɗitoɗee kam",
         "img": require("../images/ayat/21.png"),
         "startTime": 1,
         "endTime": 2
@@ -178,7 +178,7 @@ export const ayats = [
     {
         "number": 22,
         "ar_ayat": "فَدَعَا رَبَّهُۥٓ أَنَّ هَـٰٓؤُلَآءِ قَوْمٌۭ مُّجْرِمُونَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Tan o noddi joomiiko, ɓee-ɗoo kam ko yimɓe battam-boniiɓe",
         "img": require("../images/ayat/22.png"),
         "startTime": 1,
         "endTime": 2
@@ -186,7 +186,7 @@ export const ayats = [
     {
         "number": 23,
         "ar_ayat": "فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Roƴdu e jiyaaɓe am ɓe jamma, ngati ko on abbateeɓe",
         "img": require("../images/ayat/23.png"),
         "startTime": 1,
         "endTime": 2
@@ -194,7 +194,7 @@ export const ayats = [
     {
         "number": 24,
         "ar_ayat": "وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا ۖ إِنَّهُمْ جُندٌۭ مُّغْرَقُونَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "E woppu mayo ngo deeƴa, kamɓe dey tigi ko ɓe konu yoolateengu",
         "img": require("../images/ayat/24.png"),
         "startTime": 1,
         "endTime": 2
@@ -202,7 +202,7 @@ export const ayats = [
     {
         "number": 25,
         "ar_ayat": "كَمْ تَرَكُوا۟ مِن جَنَّـٰتٍۢ وَعُيُونٍۢ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Hono foti nammbuuji e caalli ɓe ngoppi",
         "img": require("../images/ayat/25.png"),
         "startTime": 1,
         "endTime": 2
@@ -210,7 +210,7 @@ export const ayats = [
     {
         "number": 26,
         "ar_ayat": "وَزُرُوعٍۢ وَمَقَامٍۢ كَرِيمٍۢ",
-        "pr_ayat": "innde",
+        "pr_ayat": "E gese e nokkuuji tedduɗi",
         "img": require("../images/ayat/26.png"),
         "startTime": 1,
         "endTime": 2
@@ -218,7 +218,7 @@ export const ayats = [
     {
         "number": 27,
         "ar_ayat": "وَنَعْمَةٍۢ كَانُوا۟ فِيهَا فَـٰكِهِينَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "E dakkammeeji ɗi ɓe mbeeytotonoo nder mum-en",
         "img": require("../images/ayat/27.png"),
         "startTime": 1,
         "endTime": 2
@@ -226,7 +226,7 @@ export const ayats = [
     {
         "number": 28,
         "ar_ayat": "كَذَٰلِكَ ۖ وَأَوْرَثْنَـٰهَا قَوْمًا ءَاخَرِينَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Ko noon-ne e min ndontiniri ɗum leñol goɗngol",
         "img": require("../images/ayat/28.png"),
         "startTime": 1,
         "endTime": 2
@@ -234,7 +234,7 @@ export const ayats = [
     {
         "number": 29,
         "ar_ayat": "فَمَا بَكَتْ عَلَيْهِمُ ٱلسَّمَآءُ وَٱلْأَرْضُ وَمَا كَانُوا۟ مُنظَرِينَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Tee woyanaaniɓe kammu ngu, wonaa kadi leydi ndi, tee ɓe muñcananooka",
         "img": require("../images/ayat/29.png"),
         "startTime": 1,
         "endTime": 2
@@ -242,7 +242,7 @@ export const ayats = [
     {
         "number": 30,
         "ar_ayat": "وَلَقَدْ نَجَّيْنَا بَنِىٓ إِسْرَٰٓءِيلَ مِنَ ٱلْعَذَابِ ٱلْمُهِينِ",
-        "pr_ayat": "innde",
+        "pr_ayat": "E jaati min ndaɗndiino ɓiɓɓe israaiila e leeɓte koynooje",
         "img": require("../images/ayat/30.png"),
         "startTime": 1,
         "endTime": 2
@@ -250,7 +250,7 @@ export const ayats = [
     {
         "number": 31,
         "ar_ayat": "مِن فِرْعَوْنَ ۚ إِنَّهُۥ كَانَ عَالِيًۭا مِّنَ ٱلْمُسْرِفِينَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Ɗe fir’awna, tigi kaŋko ko o toowninooɗo jeyaaɗo e fantinooɓe",
         "img": require("../images/ayat/31.png"),
         "startTime": 1,
         "endTime": 2
@@ -258,7 +258,7 @@ export const ayats = [
     {
         "number": 32,
         "ar_ayat": "وَلَقَدِ ٱخْتَرْنَـٰهُمْ عَلَىٰ عِلْمٍ عَلَى ٱلْعَـٰلَمِينَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "E jaati min cuɓimaa-maɓe e anndude dow binnde ɗe",
         "img": require("../images/ayat/32.png"),
         "startTime": 1,
         "endTime": 2
@@ -266,7 +266,7 @@ export const ayats = [
     {
         "number": 33,
         "ar_ayat": "وَءَاتَيْنَـٰهُم مِّنَ ٱلْـَٔايَـٰتِ مَا فِيهِ بَلَـٰٓؤٌۭا۟ مُّبِينٌ",
-        "pr_ayat": "innde",
+        "pr_ayat": "E min tottiɓe maandeeji, e ɗuum ko woni heen e ƴeewndo laaɓtungo",
         "img": require("../images/ayat/33.png"),
         "startTime": 1,
         "endTime": 2
@@ -274,7 +274,7 @@ export const ayats = [
     {
         "number": 34,
         "ar_ayat": "إِنَّ هَـٰٓؤُلَآءِ لَيَقُولُونَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Tigi-ne ɓee-ɗoo aɓe mbiya",
         "img": require("../images/ayat/34.png"),
         "startTime": 1,
         "endTime": 2
@@ -282,7 +282,7 @@ export const ayats = [
     {
         "number": 35,
         "ar_ayat": "إِنْ هِىَ إِلَّا مَوْتَتُنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُنشَرِينَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Ɗum ko ɗum maayde arwaniire nde, tee en ngonaa ummitinoyteeɓe",
         "img": require("../images/ayat/35.png"),
         "startTime": 1,
         "endTime": 2
@@ -290,7 +290,7 @@ export const ayats = [
     {
         "number": 36,
         "ar_ayat": "فَأْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَـٰدِقِينَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Wadde ngartiree baabiraaɓe amen so tawii ko on goongɗuɓe",
         "img": require("../images/ayat/36.png"),
         "startTime": 1,
         "endTime": 2
@@ -298,7 +298,7 @@ export const ayats = [
     {
         "number": 37,
         "ar_ayat": "أَهُمْ خَيْرٌ أَمْ قَوْمُ تُبَّعٍۢ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ أَهْلَكْنَـٰهُمْ ۖ إِنَّهُمْ كَانُوا۟ مُجْرِمِينَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "A-mbele kamɓe ɓuri walla ko leñol Tubba’i en e ɓeen adinooɓe ɓe, min mboomii ɗumen, tigi-ne ɓe ngonnoo ko battam-boniiɓe",
         "img": require("../images/ayat/37.png"),
         "startTime": 1,
         "endTime": 2
@@ -306,7 +306,7 @@ export const ayats = [
     {
         "number": 38,
         "ar_ayat": "وَمَا خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا لَـٰعِبِينَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Tee min tagiraani kammuuji ɗi e leydi ndi e ko woni hakkunde majji he fijindaare",
         "img": require("../images/ayat/38.png"),
         "startTime": 1,
         "endTime": 2
@@ -314,7 +314,7 @@ export const ayats = [
     {
         "number": 39,
         "ar_ayat": "مَا خَلَقْنَـٰهُمَآ إِلَّا بِٱلْحَقِّ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Min tagiraani ɗi so wonaa e goonga, kono ko heewi e maɓɓe nganndaa",
         "img": require("../images/ayat/39.png"),
         "startTime": 1,
         "endTime": 2
@@ -322,7 +322,7 @@ export const ayats = [
     {
         "number": 40,
         "ar_ayat": "إِنَّ يَوْمَ ٱلْفَصْلِ مِيقَـٰتُهُمْ أَجْمَعِينَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Tigi-ne ñalngu ceerndiigu “ñaawoore” woni tumaare maɓɓe kamɓe kala",
         "img": require("../images/ayat/40.png"),
         "startTime": 1,
         "endTime": 2
@@ -330,7 +330,7 @@ export const ayats = [
     {
         "number": 41,
         "ar_ayat": "يَوْمَ لَا يُغْنِى مَوْلًى عَن مَّوْلًۭى شَيْـًۭٔا وَلَا هُمْ يُنصَرُونَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Ñande jillittooɗo nafataa jillitiiɗo mum hay huunde, wonaa kadi aɓe paabee",
         "img": require("../images/ayat/41.png"),
         "startTime": 1,
         "endTime": 2
@@ -338,7 +338,7 @@ export const ayats = [
     {
         "number": 42,
         "ar_ayat": "إِلَّا مَن رَّحِمَ ٱللَّهُ ۚ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
-        "pr_ayat": "innde",
+        "pr_ayat": "So wonaa mo Alla yurmii, tigi kaŋko woni tedduɗo jurmotooɗo o",
         "img": require("../images/ayat/42.png"),
         "startTime": 1,
         "endTime": 2
@@ -346,7 +346,7 @@ export const ayats = [
     {
         "number": 43,
         "ar_ayat": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Tigi-ne lekki Sakuum “darɓoggel”",
         "img": require("../images/ayat/43.png"),
         "startTime": 1,
         "endTime": 2
@@ -354,7 +354,7 @@ export const ayats = [
     {
         "number": 44,
         "ar_ayat": "طَعَامُ ٱلْأَثِيمِ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Wonata ñamri bakkodinooɓe ɓe",
         "img": require("../images/ayat/44.png"),
         "startTime": 1,
         "endTime": 2
@@ -362,7 +362,7 @@ export const ayats = [
     {
         "number": 45,
         "ar_ayat": "كَٱلْمُهْلِ يَغْلِى فِى ٱلْبُطُونِ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Andi wayi no taaynannde jaka, andi fasa nder deedi",
         "img": require("../images/ayat/45.png"),
         "startTime": 1,
         "endTime": 2
@@ -370,7 +370,7 @@ export const ayats = [
     {
         "number": 46,
         "ar_ayat": "كَغَلْىِ ٱلْحَمِيمِ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Hono pasgol ngulɗam",
         "img": require("../images/ayat/46.png"),
         "startTime": 1,
         "endTime": 2
@@ -378,7 +378,7 @@ export const ayats = [
     {
         "number": 47,
         "ar_ayat": "خُذُوهُ فَٱعْتِلُوهُ إِلَىٰ سَوَآءِ ٱلْجَحِيمِ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Naŋngee mo, ndaasee mo fayde to hakkunde taaynowol “jahiim”",
         "img": require("../images/ayat/47.png"),
         "startTime": 1,
         "endTime": 2
@@ -386,7 +386,7 @@ export const ayats = [
     {
         "number": 48,
         "ar_ayat": "ثُمَّ صُبُّوا۟ فَوْقَ رَأْسِهِۦ مِنْ عَذَابِ ٱلْحَمِيمِ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Rewti njuppee dow hoore makko he ndiyam ngulɗam",
         "img": require("../images/ayat/48.png"),
         "startTime": 1,
         "endTime": 2
@@ -394,7 +394,7 @@ export const ayats = [
     {
         "number": 49,
         "ar_ayat": "ذُقْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْكَرِيمُ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Meeɗ tigi aan ko a jom baawɗe tedduɗo",
         "img": require("../images/ayat/49.png"),
         "startTime": 1,
         "endTime": 2
@@ -402,7 +402,7 @@ export const ayats = [
     {
         "number": 50,
         "ar_ayat": "إِنَّ هَـٰذَا مَا كُنتُم بِهِۦ تَمْتَرُونَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Tigi ne ɗum ɗoo woni ko laatinoɗon oɗon cikkittonoo e mum",
         "img": require("../images/ayat/50.png"),
         "startTime": 1,
         "endTime": 2
@@ -410,7 +410,7 @@ export const ayats = [
     {
         "number": 51,
         "ar_ayat": "إِنَّ ٱلْمُتَّقِينَ فِى مَقَامٍ أَمِينٍۢ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Tigi-rigi hulɓe “Alla” ɓe ngonata ko nder nokku koolniiɗo",
         "img": require("../images/ayat/51.png"),
         "startTime": 1,
         "endTime": 2
@@ -418,7 +418,7 @@ export const ayats = [
     {
         "number": 52,
         "ar_ayat": "فِى جَنَّـٰتٍۢ وَعُيُونٍۢ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Nder nammbuuji e cewle",
         "img": require("../images/ayat/52.png"),
         "startTime": 1,
         "endTime": 2
@@ -426,7 +426,7 @@ export const ayats = [
     {
         "number": 53,
         "ar_ayat": "يَلْبَسُونَ مِن سُندُسٍۢ وَإِسْتَبْرَقٍۢ مُّتَقَـٰبِلِينَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Ɓe ɓoornotoo ko comci falla ñilkoowo, e gaara tawi aɓe kuccondiri",
         "img": require("../images/ayat/53.png"),
         "startTime": 1,
         "endTime": 2
@@ -434,7 +434,7 @@ export const ayats = [
     {
         "number": 54,
         "ar_ayat": "كَذَٰلِكَ وَزَوَّجْنَـٰهُم بِحُورٍ عِينٍۢ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Ko hono noon e min ndesnaɓe rewɓe huuri, ɓe gite putte",
         "img": require("../images/ayat/54.png"),
         "startTime": 1,
         "endTime": 2
@@ -442,7 +442,7 @@ export const ayats = [
     {
         "number": 55,
         "ar_ayat": "يَدْعُونَ فِيهَا بِكُلِّ فَـٰكِهَةٍ ءَامِنِينَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Ɓe noddat nder toon kala edda ɓesnooje, tawi aɓe koolii",
         "img": require("../images/ayat/55.png"),
         "startTime": 1,
         "endTime": 2
@@ -450,7 +450,7 @@ export const ayats = [
     {
         "number": 56,
         "ar_ayat": "لَا يَذُوقُونَ فِيهَا ٱلْمَوْتَ إِلَّا ٱلْمَوْتَةَ ٱلْأُولَىٰ ۖ وَوَقَىٰهُمْ عَذَابَ ٱلْجَحِيمِ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Ɓe meeɗataa toon maayde so wonaa maayde arwaniire nde, o daɗndaɓe e leeɓte taaynowol “jahiim”",
         "img": require("../images/ayat/56.png"),
         "startTime": 1,
         "endTime": 2
@@ -458,7 +458,7 @@ export const ayats = [
     {
         "number": 57,
         "ar_ayat": "فَضْلًۭا مِّن رَّبِّكَ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Ɓural ummoraade to joome, ko ɗuum woni keɓal mawngal “daɗal”",
         "img": require("../images/ayat/57.png"),
         "startTime": 1,
         "endTime": 2
@@ -466,7 +466,7 @@ export const ayats = [
     {
         "number": 58,
         "ar_ayat": "فَإِنَّمَا يَسَّرْنَـٰهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "E tigi-ne min newniri ɗum e ɗemngal ma “khuraana”, ko mbele aɓe ciftora",
         "img": require("../images/ayat/58.png"),
         "startTime": 1,
         "endTime": 2
@@ -474,7 +474,7 @@ export const ayats = [
     {
         "number": 59,
         "ar_ayat": "فَٱرْتَقِبْ إِنَّهُم مُّرْتَقِبُونَ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Wadde tommbo, tigi-ne kamɓe ko ɓe tommbiiɓe",
         "img": require("../images/ayat/59.png"),
         "startTime": 1,
         "endTime": 2
