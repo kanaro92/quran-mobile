@@ -10,7 +10,7 @@ export const ayats = [
     {
         "number": 1,
         "ar_ayat": "حمٓ",
-        "pr_ayat": "innde",
+        "pr_ayat": "Haa-miim",
         "img": require("../images/ayat/1.png"),
         "startTime": 1,
         "endTime": 2
