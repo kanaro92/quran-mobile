@@ -414,5 +414,21 @@ export const ayats = [
         "img": require("../images/ayat/51.png"),
         "startTime": 1,
         "endTime": 2
+    },
+    {
+        "number": 52,
+        "ar_ayat": "وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ رُوحًۭا مِّنْ أَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا ٱلْكِتَـٰبُ وَلَا ٱلْإِيمَـٰنُ وَلَـٰكِن جَعَلْنَـٰهُ نُورًۭا نَّهْدِى بِهِۦ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَإِنَّكَ لَتَهْدِىٓ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+        "pr_ayat": "E ko hono noon min njippiniri fayde e maa wonki “khuraana” iwɗo e yamiroore amen, a laatanooki aɗa anndi ko woni deftere nde, wonaa kadi goongɗingol ngol, kono tan min mbaɗii ɗum lewlewal amin kanndoroongal, kala mo min muuyi he jiyaaɓe amen, e tigi-ne aan ko a kanndotooɗo fayde e laawwol pooccingol",
+        "img": require("../images/ayat/52.png"),
+        "startTime": 1,
+        "endTime": 2
+    },
+    {
+        "number": 53,
+        "ar_ayat": "صِرَٰطِ ٱللَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ أَلَآ إِلَى ٱللَّهِ تَصِيرُ ٱلْأُمُورُ",
+        "pr_ayat": "Laawol Alla oon mo woodani ɗuum kala ko woni dow kammuuji ɗi e kala ko woni dow leydi ndi, kayne ko to Alla fiyaakuuji mbattinta (",
+        "img": require("../images/ayat/53.png"),
+        "startTime": 1,
+        "endTime": 2
     }
 ]
