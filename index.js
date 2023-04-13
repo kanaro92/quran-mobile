@@ -6,7 +6,7 @@ import {AppRegistry} from 'react-native';
 import App from './App';
 import {name as appName} from './app.json';
 import PushNotification from "react-native-push-notification";
-import CronJob from "react-native-cron-job";
+/*import CronJob from "react-native-cron-job";*/
 import freeSourates from "./free-sourates";
 
 PushNotification.configure({
@@ -16,7 +16,7 @@ PushNotification.configure({
     requestPermissions: Platform.OS === 'ios'
 });
 
-const CronJobTask = async () => {
+/*const CronJobTask = async () => {
     // Do your task here.
     console.log("Cron Job executed");
     let randomSourat = freeSourates[Math.floor(Math.random() * freeSourates.length)];
@@ -29,7 +29,7 @@ const CronJobTask = async () => {
     });
     // Be sure to call completeTask at the end.
     CronJob.completeTask();
-};
+};*/
 AppRegistry.registerHeadlessTask('CRONJOB', () => CronJobTask);
 
 AppRegistry.registerComponent(appName, () => App);

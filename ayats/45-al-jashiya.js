@@ -18,11 +18,7 @@ export const ayats = [
     {
         "number": 2,
         "ar_ayat": "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
-<<<<<<< HEAD
         "pr_ayat": "Jippogol deftere nde ummorii ko to Alla tedduɗo ñeeññuɗo",
-=======
-        "pr_ayat": "ine",
->>>>>>> 63a84cf0ab5b79603165e829898660bc6c4ab16d
         "img": require("../images/ayat/2.png"),
         "startTime": 1,
         "endTime": 2

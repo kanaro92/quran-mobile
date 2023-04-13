@@ -25,7 +25,7 @@ import DeviceInfo from "react-native-device-info/src/index";
 import {DeviceInfoModel} from "./model/DeviceInfoModel";
 import {RegistrationInfo} from "./model/RegistrationInfo";
 import PushNotification from "react-native-push-notification";
-import CronJob from "react-native-cron-job";
+/*import CronJob from "react-native-cron-job";*/
 import vente from "./api/vente";
 import Pressable from "react-native/Libraries/Components/Pressable/Pressable";
 import {FontAwesomeIcon} from "@fortawesome/react-native-fontawesome";
@@ -57,7 +57,7 @@ class QuranPulaarApp extends Component {
         //this.storeData('quranCode', null);
         //this.registerAfterUninstall();
         //this.handleNotification();
-        CronJob.startCronJob(19, 15); // starts cronjob everyday at 10:12 PM
+        /*CronJob.startCronJob(19, 15);*/ // starts cronjob everyday at 10:12 PM
         //this.playIntro();
     }
 
