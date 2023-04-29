@@ -47,7 +47,7 @@ export const ayats = [
             "welanooma o yoɓtonoɓe “leeɓtannoɓe” kaŋko e hoore " +
             "makko, kono tan ko ngam o ƴeewndoo yoga e mon dow " +
             "yoga, e ɓeen waraaɓe e dow laawol Alla golle mum-en " +
-            "njogoraani moƴƴoyde",
+            "njogoraani majjoyde",
         "img": require("../images/ayat/4.png"),
         "startTime": 1,
         "endTime": 2

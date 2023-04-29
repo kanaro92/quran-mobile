@@ -20,7 +20,7 @@
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/native": "6.0.8",
     "@react-navigation/native-stack": "6.5.0",
-    "apisauce": "^2.1.5",
+    "apisauce": "^3.0.0",
     "babel-plugin-react-native-classname-to-style": "^1.2.2",
     "babel-plugin-react-native-platform-specific-extensions": "^1.1.1",
     "fbjs": "^3.0.4",

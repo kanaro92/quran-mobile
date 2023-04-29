@@ -152,16 +152,16 @@ class QuranPulaarApp extends Component {
 
                                     <Text/>
                                     <Text/>
-                                    <Text style={styles.name_text}>Hamath Kan - Muritani</Text>
+                                    <Text style={styles.name_text}>Saiid Nuuru Jah - Muritani</Text>
                                     <Text style={styles.text}>
                                         <View style={styles.icons}>
-                                            <Image source={require('./images/bankily.png')}/>
-                                            <Image source={require('./images/ghaza-telecom.jpg')}/>
+                                            <Image source={require('./images/bankily.png')} />
+                                            <Image source={require('./images/ghaza-telecom.jpg')} />
                                         </View>
                                         <View style={styles.icons}>
                                             <FontAwesomeIcon icon={faPhoneAlt} size={26} color={"#24561F"}/>
-                                            <Text style={styles.phone_text}>00 222 31 59 12 76</Text>
-                                            <Image source={require('./images/whatsapp.jpg')}/>
+                                            <Text style={styles.phone_text}>00 222 47 70 53 01</Text>
+                                            <Image source={require('./images/whatsapp.jpg')} />
                                         </View>
                                     </Text>
 

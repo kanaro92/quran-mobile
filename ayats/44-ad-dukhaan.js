@@ -66,7 +66,7 @@ export const ayats = [
     {
         "number": 8,
         "ar_ayat": "لَآ إِلَـٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ ۖ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
-        "pr_ayat": "Deweteeɗo alaa so wonaa kaŋko, omo wuurna e omo wara, teekaŋko woni joomi mon e joomiraaɗo baabiraaɓe mon adinooɓe",
+        "pr_ayat": "Deweteeɗo alaa so wonaa kaŋko, omo wuurna e omo wara, tee kaŋko woni joomi mon e joomiraaɗo baabiraaɓe mon adinooɓe",
         "img": require("../images/ayat/8.png"),
         "startTime": 1,
         "endTime": 2

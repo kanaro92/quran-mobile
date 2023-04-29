@@ -66,7 +66,7 @@ export const ayats = [
     {
         "number": 8,
         "ar_ayat": "وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَهُمْ أُمَّةًۭ وَٰحِدَةًۭ وَلَـٰكِن يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّـٰلِمُونَ مَا لَهُم مِّن وَلِىٍّۢ وَلَا نَصِيرٍ",
-        "pr_ayat": "Sinno fof Alla muuyiino maa o waɗanoɓe leñol gootol tan, e kono tan omo naatna kala mo o haaji nder yurmeende makko, tee tooñooɓe ɓe, alanaa ɗum-en jillittooɗo walla paabotooɗo",
+        "pr_ayat": "Sinno fof Alla muuyiino maa o waɗannoɓe leñol gootol tan, e kono tan omo naatna kala mo o haaji nder yurmeende makko, tee tooñooɓe ɓe, alanaa ɗum-en jillittooɗo walla paabotooɗo",
         "img": require("../images/ayat/8.png"),
         "startTime": 1,
         "endTime": 2
@@ -329,7 +329,7 @@ export const ayats = [
     },
     {
         "number": 41,
-        "ar_ayat": "٤٠ وَلَمَنِ ٱنتَصَرَ بَعْدَ ظُلْمِهِۦ فَأُو۟لَـٰٓئِكَ مَا عَلَيْهِم مِّن سَبِيلٍ",
+        "ar_ayat": "وَلَمَنِ ٱنتَصَرَ بَعْدَ ظُلْمِهِۦ فَأُو۟لَـٰٓئِكَ مَا عَلَيْهِم مِّن سَبِيلٍ",
         "pr_ayat": "Kono ɓeen ɓe ina paabondira caggal nde tooñaa, wadde ɓeen laawol alanaa ɗum-en “feloore alanaa ɗumen”",
         "img": require("../images/ayat/41.png"),
         "startTime": 1,

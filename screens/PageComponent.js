@@ -100,13 +100,13 @@ const styles = StyleSheet.create({
         fontWeight: 'normal',
     },
     pr_title_width: {
-        width: 180,
+        width: 150,
     },
     ar_title_width: {
-        width: 100,
+        width: 80,
     },
     number_width: {
-        width: 120,
+        width: 100,
     },
     pr_title_text: {
         fontSize: 13,

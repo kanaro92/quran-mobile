@@ -197,7 +197,7 @@ class ContentComponent extends PureComponent {
                 this.downloadSourate(url, null, null, size);
             }
         }).catch(reason => {
-            Alert.alert("Caɗeele internet", "Roŋki aawtaade simoore nde, seŋo e internet !");
+            Alert.alert("Caɗeele internet", "Roŋki aawtaade simoore nde, seŋo e internet !"+reason);
         })
     }
 
@@ -257,7 +257,7 @@ class ContentComponent extends PureComponent {
                 this.downloadSourate(url, startTime, endTime, size)
             }
         }).catch(reason => {
-            Alert.alert("Caɗeele internet", "Roŋki aawtaade simoore nde, seŋo e internet !");
+            Alert.alert("Caɗeele internet", "Roŋki aawtaade simoore nde, seŋo e internet !"+reason);
         })
     }
 
@@ -342,7 +342,7 @@ class ContentComponent extends PureComponent {
             this.setState({
                 isDownloading: false
             });
-            Alert.alert("Caɗeele internet", "Roŋki aawtaade simoore nde, seŋo e internet !");
+            Alert.alert("Caɗeele internet", "Roŋki aawtaade simoore nde, seŋo e internet !"+reason);
         })
     }
 
@@ -420,7 +420,7 @@ const styles = StyleSheet.create({
     body: {
         width: width,
         height: '95%',
-        borderWidth: 3,
+        borderWidth: 1,
         borderColor: '#4dbf81',
         borderRadius: 10
     },
