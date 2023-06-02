@@ -14,6 +14,34 @@ export default [
         "ayats_list": require("./ayats/1-faatih")
     },
     {
+        "surat_number": 40,
+        "juzz": "الجزء Tumbutere 24",
+        "surat": "سورة غافر Simoore Jaafotooɗo",
+        "juzz_number": 24,
+        "ar_title": "غافر",
+        "pr_title": "Jaafotooɗo",
+        "ayat_number": 85,
+        "ayat_img": require("./images/ayat/85.png"),
+        "ayat_url": "http://abousy.com/quran_audio/40_AlGaafir.mp3",
+        "page_number": 40,
+        "size": 56184,
+        "ayats_list": require("./ayats/40-ghaafir")
+    },
+    {
+        "surat_number": 41,
+        "juzz": "الجزء Tumbutere 24",
+        "surat": "سورة فصلت Simoore Ceerndugol",
+        "juzz_number": 24,
+        "ar_title": "فصلت",
+        "pr_title": "Ceerndugol",
+        "ayat_number": 54,
+        "ayat_img": require("./images/ayat/54.png"),
+        "ayat_url": "http://abousy.com/quran_audio/41_FusSilat.mp3",
+        "page_number": 41,
+        "size": 39808,
+        "ayats_list": require("./ayats/41-fussilaat")
+    },
+    {
         "surat_number": 42,
         "juzz": "الجزء Tumbutere 25",
         "surat": "سورة الشورى Simoore Diisnondiral",

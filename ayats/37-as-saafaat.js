@@ -9,7 +9,7 @@ export const ayats = [
     },
     {
         "number": 1,
-        "ar_ayat": "بِسْمُِ",
+        "ar_ayat": "وَٱلصَّـٰٓفَّـٰتِ صَفًّۭا",
         "pr_ayat": "innde",
         "img": require("../images/ayat/1.png"),
         "startTime": 1,
@@ -17,7 +17,7 @@ export const ayats = [
     },
     {
         "number": 2,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَٱلزَّٰجِرَٰتِ زَجْرًۭا",
         "pr_ayat": "innde",
         "img": require("../images/ayat/2.png"),
         "startTime": 1,
@@ -25,7 +25,7 @@ export const ayats = [
     },
     {
         "number": 3,
-        "ar_ayat": "بِسْمٌِ",
+        "ar_ayat": "فَٱلتَّـٰلِيَـٰتِ ذِكْرًا",
         "pr_ayat": "innde",
         "img": require("../images/ayat/3.png"),
         "startTime": 1,
@@ -33,7 +33,7 @@ export const ayats = [
     },
     {
         "number": 4,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِنَّ إِلَـٰهَكُمْ لَوَٰحِدٌۭ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/4.png"),
         "startTime": 1,
@@ -41,7 +41,7 @@ export const ayats = [
     },
     {
         "number": 5,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "رَّبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ ٱلْمَشَـٰرِقِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/5.png"),
         "startTime": 1,
@@ -49,7 +49,7 @@ export const ayats = [
     },
     {
         "number": 6,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِنَّا زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِزِينَةٍ ٱلْكَوَاكِبِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/6.png"),
         "startTime": 1,
@@ -57,7 +57,7 @@ export const ayats = [
     },
     {
         "number": 7,
-        "ar_ayat": "بِسْمًِ",
+        "ar_ayat": "وَحِفْظًۭا مِّن كُلِّ شَيْطَـٰنٍۢ مَّارِدٍۢ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/7.png"),
         "startTime": 1,
@@ -65,7 +65,7 @@ export const ayats = [
     },
     {
         "number": 8,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍۢ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/8.png"),
         "startTime": 1,
@@ -73,7 +73,7 @@ export const ayats = [
     },
     {
         "number": 9,
-        "ar_ayat": "بِسْمِِ",
+        "ar_ayat": "دُحُورًۭا ۖ وَلَهُمْ عَذَابٌۭ وَاصِبٌ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/9.png"),
         "startTime": 1,
@@ -81,7 +81,7 @@ export const ayats = [
     },
     {
         "number": 10,
-        "ar_ayat": "بِسْمَِ",
+        "ar_ayat": "إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ فَأَتْبَعَهُۥ شِهَابٌۭ ثَاقِبٌۭ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/10.png"),
         "startTime": 1,
@@ -89,7 +89,7 @@ export const ayats = [
     },
     {
         "number": 11,
-        "ar_ayat": "بِسْمَِ",
+        "ar_ayat": "فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَم مَّنْ خَلَقْنَآ ۚ إِنَّا خَلَقْنَـٰهُم مِّن طِينٍۢ لَّازِبٍۭ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/11.png"),
         "startTime": 1,
@@ -97,7 +97,7 @@ export const ayats = [
     },
     {
         "number": 12,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "بَلْ عَجِبْتَ وَيَسْخَرُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/12.png"),
         "startTime": 1,
@@ -105,7 +105,7 @@ export const ayats = [
     },
     {
         "number": 13,
-        "ar_ayat": "بِسْمَِ",
+        "ar_ayat": "وَإِذَا ذُكِّرُوا۟ لَا يَذْكُرُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/13.png"),
         "startTime": 1,
@@ -113,7 +113,7 @@ export const ayats = [
     },
     {
         "number": 14,
-        "ar_ayat": "بِسْمَِ",
+        "ar_ayat": "وَإِذَا رَأَوْا۟ ءَايَةًۭ يَسْتَسْخِرُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/14.png"),
         "startTime": 1,
@@ -121,7 +121,7 @@ export const ayats = [
     },
     {
         "number": 15,
-        "ar_ayat": "بِسْمٍِ",
+        "ar_ayat": "وَقَالُوٓا۟ إِنْ هَـٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/15.png"),
         "startTime": 1,
@@ -129,7 +129,7 @@ export const ayats = [
     },
     {
         "number": 16,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/16.png"),
         "startTime": 1,
@@ -137,7 +137,7 @@ export const ayats = [
     },
     {
         "number": 17,
-        "ar_ayat": "بِسْمَِ",
+        "ar_ayat": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/17.png"),
         "startTime": 1,
@@ -145,7 +145,7 @@ export const ayats = [
     },
     {
         "number": 18,
-        "ar_ayat": "بِسْمٍِ",
+        "ar_ayat": "قُلْ نَعَمْ وَأَنتُمْ دَٰخِرُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/18.png"),
         "startTime": 1,
@@ -153,7 +153,7 @@ export const ayats = [
     },
     {
         "number": 19,
-        "ar_ayat": "بِسْمَِ",
+        "ar_ayat": "فَإِنَّمَا هِىَ زَجْرَةٌۭ وَٰحِدَةٌۭ فَإِذَا هُمْ يَنظُرُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/19.png"),
         "startTime": 1,
@@ -161,7 +161,7 @@ export const ayats = [
     },
     {
         "number": 20,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَقَالُوا۟ يَـٰوَيْلَنَا هَـٰذَا يَوْمُ ٱلدِّينِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/20.png"),
         "startTime": 1,
@@ -169,7 +169,7 @@ export const ayats = [
     },
     {
         "number": 21,
-        "ar_ayat": "بِسْمَِ",
+        "ar_ayat": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/21.png"),
         "startTime": 1,
@@ -177,7 +177,7 @@ export const ayats = [
     },
     {
         "number": 22,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "۞ ٱحْشُرُوا۟ ٱلَّذِينَ ظَلَمُوا۟ وَأَزْوَٰجَهُمْ وَمَا كَانُوا۟ يَعْبُدُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/22.png"),
         "startTime": 1,
@@ -185,7 +185,7 @@ export const ayats = [
     },
     {
         "number": 23,
-        "ar_ayat": "بِسْمِِ",
+        "ar_ayat": "مِن دُونِ ٱللَّهِ فَٱهْدُوهُمْ إِلَىٰ صِرَٰطِ ٱلْجَحِيمِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/23.png"),
         "startTime": 1,
@@ -193,7 +193,7 @@ export const ayats = [
     },
     {
         "number": 24,
-        "ar_ayat": "بِسْمَِ",
+        "ar_ayat": "وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/24.png"),
         "startTime": 1,
@@ -201,7 +201,7 @@ export const ayats = [
     },
     {
         "number": 25,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "مَا لَكُمْ لَا تَنَاصَرُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/25.png"),
         "startTime": 1,
@@ -209,7 +209,7 @@ export const ayats = [
     },
     {
         "number": 26,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "بَلْ هُمُ ٱلْيَوْمَ مُسْتَسْلِمُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/26.png"),
         "startTime": 1,
@@ -217,7 +217,7 @@ export const ayats = [
     },
     {
         "number": 27,
-        "ar_ayat": "بِسْمِِ",
+        "ar_ayat": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/27.png"),
         "startTime": 1,
@@ -225,7 +225,7 @@ export const ayats = [
     },
     {
         "number": 28,
-        "ar_ayat": "بِسْمٍِ",
+        "ar_ayat": "قَالُوٓا۟ إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ ٱلْيَمِينِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/28.png"),
         "startTime": 1,
@@ -233,7 +233,7 @@ export const ayats = [
     },
     {
         "number": 29,
-        "ar_ayat": "بِسْمٍِ",
+        "ar_ayat": "قَالُوا۟ بَل لَّمْ تَكُونُوا۟ مُؤْمِنِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/29.png"),
         "startTime": 1,
@@ -241,7 +241,7 @@ export const ayats = [
     },
     {
         "number": 30,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَمَا كَانَ لَنَا عَلَيْكُم مِّن سُلْطَـٰنٍۭ ۖ بَلْ كُنتُمْ قَوْمًۭا طَـٰغِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/30.png"),
         "startTime": 1,
@@ -249,7 +249,7 @@ export const ayats = [
     },
     {
         "number": 31,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَآ ۖ إِنَّا لَذَآئِقُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/31.png"),
         "startTime": 1,
@@ -257,7 +257,7 @@ export const ayats = [
     },
     {
         "number": 32,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَأَغْوَيْنَـٰكُمْ إِنَّا كُنَّا غَـٰوِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/32.png"),
         "startTime": 1,
@@ -265,7 +265,7 @@ export const ayats = [
     },
     {
         "number": 33,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَإِنَّهُمْ يَوْمَئِذٍۢ فِى ٱلْعَذَابِ مُشْتَرِكُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/33.png"),
         "startTime": 1,
@@ -273,7 +273,7 @@ export const ayats = [
     },
     {
         "number": 34,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِنَّا كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/34.png"),
         "startTime": 1,
@@ -281,7 +281,7 @@ export const ayats = [
     },
     {
         "number": 35,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِنَّهُمْ كَانُوٓا۟ إِذَا قِيلَ لَهُمْ لَآ إِلَـٰهَ إِلَّا ٱللَّهُ يَسْتَكْبِرُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/35.png"),
         "startTime": 1,
@@ -289,7 +289,7 @@ export const ayats = [
     },
     {
         "number": 36,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓا۟ ءَالِهَتِنَا لِشَاعِرٍۢ مَّجْنُونٍۭ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/36.png"),
         "startTime": 1,
@@ -297,7 +297,7 @@ export const ayats = [
     },
     {
         "number": 37,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "بَلْ جَآءَ بِٱلْحَقِّ وَصَدَّقَ ٱلْمُرْسَلِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/37.png"),
         "startTime": 1,
@@ -305,7 +305,7 @@ export const ayats = [
     },
     {
         "number": 38,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِنَّكُمْ لَذَآئِقُوا۟ ٱلْعَذَابِ ٱلْأَلِيمِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/38.png"),
         "startTime": 1,
@@ -313,7 +313,7 @@ export const ayats = [
     },
     {
         "number": 39,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَمَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/39.png"),
         "startTime": 1,
@@ -321,7 +321,7 @@ export const ayats = [
     },
     {
         "number": 40,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/40.png"),
         "startTime": 1,
@@ -329,7 +329,7 @@ export const ayats = [
     },
     {
         "number": 41,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "أُو۟لَـٰٓئِكَ لَهُمْ رِزْقٌۭ مَّعْلُومٌۭ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/41.png"),
         "startTime": 1,
@@ -337,7 +337,7 @@ export const ayats = [
     },
     {
         "number": 42,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَوَٰكِهُ ۖ وَهُم مُّكْرَمُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/42.png"),
         "startTime": 1,
@@ -345,7 +345,7 @@ export const ayats = [
     },
     {
         "number": 43,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فِى جَنَّـٰتِ ٱلنَّعِيمِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/43.png"),
         "startTime": 1,
@@ -353,7 +353,7 @@ export const ayats = [
     },
     {
         "number": 44,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "عَلَىٰ سُرُرٍۢ مُّتَقَـٰبِلِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/44.png"),
         "startTime": 1,
@@ -361,7 +361,7 @@ export const ayats = [
     },
     {
         "number": 45,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "يُطَافُ عَلَيْهِم بِكَأْسٍۢ مِّن مَّعِينٍۭ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/45.png"),
         "startTime": 1,
@@ -369,7 +369,7 @@ export const ayats = [
     },
     {
         "number": 46,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "بَيْضَآءَ لَذَّةٍۢ لِّلشَّـٰرِبِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/46.png"),
         "startTime": 1,
@@ -377,7 +377,7 @@ export const ayats = [
     },
     {
         "number": 47,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "لَا فِيهَا غَوْلٌۭ وَلَا هُمْ عَنْهَا يُنزَفُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/47.png"),
         "startTime": 1,
@@ -385,7 +385,7 @@ export const ayats = [
     },
     {
         "number": 48,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَعِندَهُمْ قَـٰصِرَٰتُ ٱلطَّرْفِ عِينٌۭ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/48.png"),
         "startTime": 1,
@@ -393,7 +393,7 @@ export const ayats = [
     },
     {
         "number": 49,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "كَأَنَّهُنَّ بَيْضٌۭ مَّكْنُونٌۭ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/49.png"),
         "startTime": 1,
@@ -401,7 +401,7 @@ export const ayats = [
     },
     {
         "number": 50,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/50.png"),
         "startTime": 1,
@@ -409,7 +409,7 @@ export const ayats = [
     },
     {
         "number": 51,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "قَالَ قَآئِلٌۭ مِّنْهُمْ إِنِّى كَانَ لِى قَرِينٌۭ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/51.png"),
         "startTime": 1,
@@ -417,7 +417,7 @@ export const ayats = [
     },
     {
         "number": 52,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "يَقُولُ أَءِنَّكَ لَمِنَ ٱلْمُصَدِّقِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/52.png"),
         "startTime": 1,
@@ -425,7 +425,7 @@ export const ayats = [
     },
     {
         "number": 53,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَـٰمًا أَءِنَّا لَمَدِينُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/53.png"),
         "startTime": 1,
@@ -433,7 +433,7 @@ export const ayats = [
     },
     {
         "number": 54,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "قَالَ هَلْ أَنتُم مُّطَّلِعُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/54.png"),
         "startTime": 1,
@@ -441,7 +441,7 @@ export const ayats = [
     },
     {
         "number": 55,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَٱطَّلَعَ فَرَءَاهُ فِى سَوَآءِ ٱلْجَحِيمِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/55.png"),
         "startTime": 1,
@@ -449,7 +449,7 @@ export const ayats = [
     },
     {
         "number": 56,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "قَالَ تَٱللَّهِ إِن كِدتَّ لَتُرْدِينِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/56.png"),
         "startTime": 1,
@@ -457,7 +457,7 @@ export const ayats = [
     },
     {
         "number": 57,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَلَوْلَا نِعْمَةُ رَبِّى لَكُنتُ مِنَ ٱلْمُحْضَرِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/57.png"),
         "startTime": 1,
@@ -465,7 +465,7 @@ export const ayats = [
     },
     {
         "number": 58,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "أَفَمَا نَحْنُ بِمَيِّتِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/58.png"),
         "startTime": 1,
@@ -473,7 +473,7 @@ export const ayats = [
     },
     {
         "number": 59,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِلَّا مَوْتَتَنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُعَذَّبِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/59.png"),
         "startTime": 1,
@@ -481,7 +481,7 @@ export const ayats = [
     },
     {
         "number": 60,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِنَّ هَـٰذَا لَهُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/60.png"),
         "startTime": 1,
@@ -489,7 +489,7 @@ export const ayats = [
     },
     {
         "number": 61,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "لِمِثْلِ هَـٰذَا فَلْيَعْمَلِ ٱلْعَـٰمِلُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/61.png"),
         "startTime": 1,
@@ -497,7 +497,7 @@ export const ayats = [
     },
     {
         "number": 62,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "أَذَٰلِكَ خَيْرٌۭ نُّزُلًا أَمْ شَجَرَةُ ٱلزَّقُّومِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/62.png"),
         "startTime": 1,
@@ -505,7 +505,7 @@ export const ayats = [
     },
     {
         "number": 63,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِنَّا جَعَلْنَـٰهَا فِتْنَةًۭ لِّلظَّـٰلِمِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/63.png"),
         "startTime": 1,
@@ -513,7 +513,7 @@ export const ayats = [
     },
     {
         "number": 64,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِنَّهَا شَجَرَةٌۭ تَخْرُجُ فِىٓ أَصْلِ ٱلْجَحِيمِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/64.png"),
         "startTime": 1,
@@ -521,7 +521,7 @@ export const ayats = [
     },
     {
         "number": 65,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "طَلْعُهَا كَأَنَّهُۥ رُءُوسُ ٱلشَّيَـٰطِينِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/65.png"),
         "startTime": 1,
@@ -529,7 +529,7 @@ export const ayats = [
     },
     {
         "number": 66,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَإِنَّهُمْ لَـَٔاكِلُونَ مِنْهَا فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/66.png"),
         "startTime": 1,
@@ -537,7 +537,7 @@ export const ayats = [
     },
     {
         "number": 67,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْبًۭا مِّنْ حَمِيمٍۢ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/67.png"),
         "startTime": 1,
@@ -545,7 +545,7 @@ export const ayats = [
     },
     {
         "number": 68,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "ثُمَّ إِنَّ مَرْجِعَهُمْ لَإِلَى ٱلْجَحِيمِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/68.png"),
         "startTime": 1,
@@ -553,7 +553,7 @@ export const ayats = [
     },
     {
         "number": 69,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِنَّهُمْ أَلْفَوْا۟ ءَابَآءَهُمْ ضَآلِّينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/69.png"),
         "startTime": 1,
@@ -561,7 +561,7 @@ export const ayats = [
     },
     {
         "number": 70,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَهُمْ عَلَىٰٓ ءَاثَـٰرِهِمْ يُهْرَعُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/70.png"),
         "startTime": 1,
@@ -569,7 +569,7 @@ export const ayats = [
     },
     {
         "number": 71,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَلَقَدْ ضَلَّ قَبْلَهُمْ أَكْثَرُ ٱلْأَوَّلِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/71.png"),
         "startTime": 1,
@@ -577,7 +577,7 @@ export const ayats = [
     },
     {
         "number": 72,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَلَقَدْ أَرْسَلْنَا فِيهِم مُّنذِرِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/72.png"),
         "startTime": 1,
@@ -585,7 +585,7 @@ export const ayats = [
     },
     {
         "number": 73,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُنذَرِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/73.png"),
         "startTime": 1,
@@ -593,7 +593,7 @@ export const ayats = [
     },
     {
         "number": 74,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/74.png"),
         "startTime": 1,
@@ -601,7 +601,7 @@ export const ayats = [
     },
     {
         "number": 75,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَلَقَدْ نَادَىٰنَا نُوحٌۭ فَلَنِعْمَ ٱلْمُجِيبُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/75.png"),
         "startTime": 1,
@@ -609,7 +609,7 @@ export const ayats = [
     },
     {
         "number": 76,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَنَجَّيْنَـٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/76.png"),
         "startTime": 1,
@@ -617,7 +617,7 @@ export const ayats = [
     },
     {
         "number": 77,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَجَعَلْنَا ذُرِّيَّتَهُۥ هُمُ ٱلْبَاقِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/77.png"),
         "startTime": 1,
@@ -625,7 +625,7 @@ export const ayats = [
     },
     {
         "number": 78,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/78.png"),
         "startTime": 1,
@@ -633,7 +633,7 @@ export const ayats = [
     },
     {
         "number": 79,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "سَلَـٰمٌ عَلَىٰ نُوحٍۢ فِى ٱلْعَـٰلَمِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/79.png"),
         "startTime": 1,
@@ -641,7 +641,7 @@ export const ayats = [
     },
     {
         "number": 80,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/80.png"),
         "startTime": 1,
@@ -649,7 +649,7 @@ export const ayats = [
     },
     {
         "number": 81,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/81.png"),
         "startTime": 1,
@@ -657,7 +657,7 @@ export const ayats = [
     },
     {
         "number": 82,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "ثُمَّ أَغْرَقْنَا ٱلْـَٔاخَرِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/82.png"),
         "startTime": 1,
@@ -665,7 +665,7 @@ export const ayats = [
     },
     {
         "number": 83,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "۞ وَإِنَّ مِن شِيعَتِهِۦ لَإِبْرَٰهِيمَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/83.png"),
         "startTime": 1,
@@ -673,7 +673,7 @@ export const ayats = [
     },
     {
         "number": 84,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِذْ جَآءَ رَبَّهُۥ بِقَلْبٍۢ سَلِيمٍ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/84.png"),
         "startTime": 1,
@@ -681,7 +681,7 @@ export const ayats = [
     },
     {
         "number": 85,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/85.png"),
         "startTime": 1,
@@ -689,7 +689,7 @@ export const ayats = [
     },
     {
         "number": 86,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "أَئِفْكًا ءَالِهَةًۭ دُونَ ٱللَّهِ تُرِيدُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/86.png"),
         "startTime": 1,
@@ -697,7 +697,7 @@ export const ayats = [
     },
     {
         "number": 87,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَمَا ظَنُّكُم بِرَبِّ ٱلْعَـٰلَمِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/87.png"),
         "startTime": 1,
@@ -705,7 +705,7 @@ export const ayats = [
     },
     {
         "number": 88,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَنَظَرَ نَظْرَةًۭ فِى ٱلنُّجُومِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/88.png"),
         "startTime": 1,
@@ -713,7 +713,7 @@ export const ayats = [
     },
     {
         "number": 89,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَقَالَ إِنِّى سَقِيمٌۭ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/89.png"),
         "startTime": 1,
@@ -721,7 +721,7 @@ export const ayats = [
     },
     {
         "number": 90,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَتَوَلَّوْا۟ عَنْهُ مُدْبِرِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/90.png"),
         "startTime": 1,
@@ -729,7 +729,7 @@ export const ayats = [
     },
     {
         "number": 91,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/91.png"),
         "startTime": 1,
@@ -737,7 +737,7 @@ export const ayats = [
     },
     {
         "number": 92,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "مَا لَكُمْ لَا تَنطِقُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/92.png"),
         "startTime": 1,
@@ -745,7 +745,7 @@ export const ayats = [
     },
     {
         "number": 93,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/93.png"),
         "startTime": 1,
@@ -753,7 +753,7 @@ export const ayats = [
     },
     {
         "number": 94,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَأَقْبَلُوٓا۟ إِلَيْهِ يَزِفُّونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/94.png"),
         "startTime": 1,
@@ -761,7 +761,7 @@ export const ayats = [
     },
     {
         "number": 95,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/95.png"),
         "startTime": 1,
@@ -769,7 +769,7 @@ export const ayats = [
     },
     {
         "number": 96,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَٱللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/96.png"),
         "startTime": 1,
@@ -777,7 +777,7 @@ export const ayats = [
     },
     {
         "number": 97,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/97.png"),
         "startTime": 1,
@@ -785,7 +785,7 @@ export const ayats = [
     },
     {
         "number": 98,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَأَرَادُوا۟ بِهِۦ كَيْدًۭا فَجَعَلْنَـٰهُمُ ٱلْأَسْفَلِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/98.png"),
         "startTime": 1,
@@ -793,7 +793,7 @@ export const ayats = [
     },
     {
         "number": 99,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَقَالَ إِنِّى ذَاهِبٌ إِلَىٰ رَبِّى سَيَهْدِينِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/99.png"),
         "startTime": 1,
@@ -801,7 +801,7 @@ export const ayats = [
     },
     {
         "number": 100,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "رَبِّ هَبْ لِى مِنَ ٱلصَّـٰلِحِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/100.png"),
         "startTime": 1,
@@ -809,7 +809,7 @@ export const ayats = [
     },
     {
         "number": 101,
-        "ar_ayat": "بِسْمُِ",
+        "ar_ayat": "فَبَشَّرْنَـٰهُ بِغُلَـٰمٍ حَلِيمٍۢ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/101.png"),
         "startTime": 1,
@@ -817,7 +817,7 @@ export const ayats = [
     },
     {
         "number": 102,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/102.png"),
         "startTime": 1,
@@ -825,7 +825,7 @@ export const ayats = [
     },
     {
         "number": 103,
-        "ar_ayat": "بِسْمٌِ",
+        "ar_ayat": "فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/103.png"),
         "startTime": 1,
@@ -833,7 +833,7 @@ export const ayats = [
     },
     {
         "number": 104,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَنَـٰدَيْنَـٰهُ أَن يَـٰٓإِبْرَٰهِيمُ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/104.png"),
         "startTime": 1,
@@ -841,7 +841,7 @@ export const ayats = [
     },
     {
         "number": 105,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "قَدْ صَدَّقْتَ ٱلرُّءْيَآ ۚ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/105.png"),
         "startTime": 1,
@@ -849,7 +849,7 @@ export const ayats = [
     },
     {
         "number": 106,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِنَّ هَـٰذَا لَهُوَ ٱلْبَلَـٰٓؤُا۟ ٱلْمُبِينُ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/106.png"),
         "startTime": 1,
@@ -857,7 +857,7 @@ export const ayats = [
     },
     {
         "number": 107,
-        "ar_ayat": "بِسْمًِ",
+        "ar_ayat": "وَفَدَيْنَـٰهُ بِذِبْحٍ عَظِيمٍۢ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/107.png"),
         "startTime": 1,
@@ -865,7 +865,7 @@ export const ayats = [
     },
     {
         "number": 108,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/108.png"),
         "startTime": 1,
@@ -873,7 +873,7 @@ export const ayats = [
     },
     {
         "number": 109,
-        "ar_ayat": "بِسْمِِ",
+        "ar_ayat": "سَلَـٰمٌ عَلَىٰٓ إِبْرَٰهِيمَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/109.png"),
         "startTime": 1,
@@ -881,7 +881,7 @@ export const ayats = [
     },
     {
         "number": 110,
-        "ar_ayat": "بِسْمَِ",
+        "ar_ayat": "كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/110.png"),
         "startTime": 1,
@@ -889,7 +889,7 @@ export const ayats = [
     },
     {
         "number": 111,
-        "ar_ayat": "بِسْمَِ",
+        "ar_ayat": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/111.png"),
         "startTime": 1,
@@ -897,7 +897,7 @@ export const ayats = [
     },
     {
         "number": 112,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَبَشَّرْنَـٰهُ بِإِسْحَـٰقَ نَبِيًّۭا مِّنَ ٱلصَّـٰلِحِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/112.png"),
         "startTime": 1,
@@ -905,7 +905,7 @@ export const ayats = [
     },
     {
         "number": 113,
-        "ar_ayat": "بِسْمَِ",
+        "ar_ayat": "وَبَـٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَـٰقَ ۚ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌۭ وَظَالِمٌۭ لِّنَفْسِهِۦ مُبِينٌۭ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/113.png"),
         "startTime": 1,
@@ -913,7 +913,7 @@ export const ayats = [
     },
     {
         "number": 114,
-        "ar_ayat": "بِسْمَِ",
+        "ar_ayat": "وَلَقَدْ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَـٰرُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/114.png"),
         "startTime": 1,
@@ -921,7 +921,7 @@ export const ayats = [
     },
     {
         "number": 115,
-        "ar_ayat": "بِسْمٍِ",
+        "ar_ayat": "وَنَجَّيْنَـٰهُمَا وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/115.png"),
         "startTime": 1,
@@ -929,7 +929,7 @@ export const ayats = [
     },
     {
         "number": 116,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَنَصَرْنَـٰهُمْ فَكَانُوا۟ هُمُ ٱلْغَـٰلِبِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/116.png"),
         "startTime": 1,
@@ -937,7 +937,7 @@ export const ayats = [
     },
     {
         "number": 117,
-        "ar_ayat": "بِسْمَِ",
+        "ar_ayat": "وَءَاتَيْنَـٰهُمَا ٱلْكِتَـٰبَ ٱلْمُسْتَبِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/117.png"),
         "startTime": 1,
@@ -945,7 +945,7 @@ export const ayats = [
     },
     {
         "number": 118,
-        "ar_ayat": "بِسْمٍِ",
+        "ar_ayat": "وَهَدَيْنَـٰهُمَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/118.png"),
         "startTime": 1,
@@ -953,7 +953,7 @@ export const ayats = [
     },
     {
         "number": 119,
-        "ar_ayat": "بِسْمَِ",
+        "ar_ayat": "وَتَرَكْنَا عَلَيْهِمَا فِى ٱلْـَٔاخِرِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/119.png"),
         "startTime": 1,
@@ -961,7 +961,7 @@ export const ayats = [
     },
     {
         "number": 120,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "سَلَـٰمٌ عَلَىٰ مُوسَىٰ وَهَـٰرُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/120.png"),
         "startTime": 1,
@@ -969,7 +969,7 @@ export const ayats = [
     },
     {
         "number": 121,
-        "ar_ayat": "بِسْمَِ",
+        "ar_ayat": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/121.png"),
         "startTime": 1,
@@ -977,7 +977,7 @@ export const ayats = [
     },
     {
         "number": 122,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِنَّهُمَا مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/122.png"),
         "startTime": 1,
@@ -985,7 +985,7 @@ export const ayats = [
     },
     {
         "number": 123,
-        "ar_ayat": "بِسْمِِ",
+        "ar_ayat": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/123.png"),
         "startTime": 1,
@@ -993,7 +993,7 @@ export const ayats = [
     },
     {
         "number": 124,
-        "ar_ayat": "بِسْمَِ",
+        "ar_ayat": "إِذْ قَالَ لِقَوْمِهِۦٓ أَلَا تَتَّقُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/124.png"),
         "startTime": 1,
@@ -1001,7 +1001,7 @@ export const ayats = [
     },
     {
         "number": 125,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "أَتَدْعُونَ بَعْلًۭا وَتَذَرُونَ أَحْسَنَ ٱلْخَـٰلِقِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/125.png"),
         "startTime": 1,
@@ -1009,7 +1009,7 @@ export const ayats = [
     },
     {
         "number": 126,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "ٱللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/126.png"),
         "startTime": 1,
@@ -1017,7 +1017,7 @@ export const ayats = [
     },
     {
         "number": 127,
-        "ar_ayat": "بِسْمِِ",
+        "ar_ayat": "فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/127.png"),
         "startTime": 1,
@@ -1025,7 +1025,7 @@ export const ayats = [
     },
     {
         "number": 128,
-        "ar_ayat": "بِسْمٍِ",
+        "ar_ayat": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/128.png"),
         "startTime": 1,
@@ -1033,7 +1033,7 @@ export const ayats = [
     },
     {
         "number": 129,
-        "ar_ayat": "بِسْمٍِ",
+        "ar_ayat": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/129.png"),
         "startTime": 1,
@@ -1041,7 +1041,7 @@ export const ayats = [
     },
     {
         "number": 130,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/130.png"),
         "startTime": 1,
@@ -1049,7 +1049,7 @@ export const ayats = [
     },
     {
         "number": 131,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/131.png"),
         "startTime": 1,
@@ -1057,7 +1057,7 @@ export const ayats = [
     },
     {
         "number": 132,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/132.png"),
         "startTime": 1,
@@ -1065,7 +1065,7 @@ export const ayats = [
     },
     {
         "number": 133,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَإِنَّ لُوطًۭا لَّمِنَ ٱلْمُرْسَلِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/133.png"),
         "startTime": 1,
@@ -1073,7 +1073,7 @@ export const ayats = [
     },
     {
         "number": 134,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِذْ نَجَّيْنَـٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/134.png"),
         "startTime": 1,
@@ -1081,7 +1081,7 @@ export const ayats = [
     },
     {
         "number": 135,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِلَّا عَجُوزًۭا فِى ٱلْغَـٰبِرِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/135.png"),
         "startTime": 1,
@@ -1089,7 +1089,7 @@ export const ayats = [
     },
     {
         "number": 136,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "ثُمَّ دَمَّرْنَا ٱلْـَٔاخَرِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/136.png"),
         "startTime": 1,
@@ -1097,7 +1097,7 @@ export const ayats = [
     },
     {
         "number": 137,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/137.png"),
         "startTime": 1,
@@ -1105,7 +1105,7 @@ export const ayats = [
     },
     {
         "number": 138,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَبِٱلَّيْلِ ۗ أَفَلَا تَعْقِلُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/138.png"),
         "startTime": 1,
@@ -1113,7 +1113,7 @@ export const ayats = [
     },
     {
         "number": 139,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَإِنَّ يُونُسَ لَمِنَ ٱلْمُرْسَلِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/139.png"),
         "startTime": 1,
@@ -1121,7 +1121,7 @@ export const ayats = [
     },
     {
         "number": 140,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِذْ أَبَقَ إِلَى ٱلْفُلْكِ ٱلْمَشْحُونِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/140.png"),
         "startTime": 1,
@@ -1129,7 +1129,7 @@ export const ayats = [
     },
     {
         "number": 141,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَسَاهَمَ فَكَانَ مِنَ ٱلْمُدْحَضِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/141.png"),
         "startTime": 1,
@@ -1137,7 +1137,7 @@ export const ayats = [
     },
     {
         "number": 142,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/142.png"),
         "startTime": 1,
@@ -1145,7 +1145,7 @@ export const ayats = [
     },
     {
         "number": 143,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/143.png"),
         "startTime": 1,
@@ -1153,7 +1153,7 @@ export const ayats = [
     },
     {
         "number": 144,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "لَلَبِثَ فِى بَطْنِهِۦٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/144.png"),
         "startTime": 1,
@@ -1161,7 +1161,7 @@ export const ayats = [
     },
     {
         "number": 145,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "۞ فَنَبَذْنَـٰهُ بِٱلْعَرَآءِ وَهُوَ سَقِيمٌۭ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/145.png"),
         "startTime": 1,
@@ -1169,7 +1169,7 @@ export const ayats = [
     },
     {
         "number": 146,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةًۭ مِّن يَقْطِينٍۢ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/146.png"),
         "startTime": 1,
@@ -1177,7 +1177,7 @@ export const ayats = [
     },
     {
         "number": 147,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/147.png"),
         "startTime": 1,
@@ -1185,7 +1185,7 @@ export const ayats = [
     },
     {
         "number": 148,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/148.png"),
         "startTime": 1,
@@ -1193,7 +1193,7 @@ export const ayats = [
     },
     {
         "number": 149,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَٱسْتَفْتِهِمْ أَلِرَبِّكَ ٱلْبَنَاتُ وَلَهُمُ ٱلْبَنُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/149.png"),
         "startTime": 1,
@@ -1201,7 +1201,7 @@ export const ayats = [
     },
     {
         "number": 150,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "أَمْ خَلَقْنَا ٱلْمَلَـٰٓئِكَةَ إِنَـٰثًۭا وَهُمْ شَـٰهِدُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/150.png"),
         "startTime": 1,
@@ -1209,7 +1209,7 @@ export const ayats = [
     },
     {
         "number": 151,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "أَلَآ إِنَّهُم مِّنْ إِفْكِهِمْ لَيَقُولُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/151.png"),
         "startTime": 1,
@@ -1217,7 +1217,7 @@ export const ayats = [
     },
     {
         "number": 152,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَلَدَ ٱللَّهُ وَإِنَّهُمْ لَكَـٰذِبُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/152.png"),
         "startTime": 1,
@@ -1225,7 +1225,7 @@ export const ayats = [
     },
     {
         "number": 153,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "أَصْطَفَى ٱلْبَنَاتِ عَلَى ٱلْبَنِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/153.png"),
         "startTime": 1,
@@ -1233,7 +1233,7 @@ export const ayats = [
     },
     {
         "number": 154,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/154.png"),
         "startTime": 1,
@@ -1241,7 +1241,7 @@ export const ayats = [
     },
     {
         "number": 155,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "أَفَلَا تَذَكَّرُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/155.png"),
         "startTime": 1,
@@ -1249,7 +1249,7 @@ export const ayats = [
     },
     {
         "number": 156,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "أَمْ لَكُمْ سُلْطَـٰنٌۭ مُّبِينٌۭ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/156.png"),
         "startTime": 1,
@@ -1257,7 +1257,7 @@ export const ayats = [
     },
     {
         "number": 157,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَأْتُوا۟ بِكِتَـٰبِكُمْ إِن كُنتُمْ صَـٰدِقِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/157.png"),
         "startTime": 1,
@@ -1265,7 +1265,7 @@ export const ayats = [
     },
     {
         "number": 158,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَجَعَلُوا۟ بَيْنَهُۥ وَبَيْنَ ٱلْجِنَّةِ نَسَبًۭا ۚ وَلَقَدْ عَلِمَتِ ٱلْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/158.png"),
         "startTime": 1,
@@ -1273,7 +1273,7 @@ export const ayats = [
     },
     {
         "number": 159,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "سُبْحَـٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/159.png"),
         "startTime": 1,
@@ -1281,7 +1281,7 @@ export const ayats = [
     },
     {
         "number": 160,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/160.png"),
         "startTime": 1,
@@ -1289,7 +1289,7 @@ export const ayats = [
     },
     {
         "number": 161,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَإِنَّكُمْ وَمَا تَعْبُدُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/161.png"),
         "startTime": 1,
@@ -1297,7 +1297,7 @@ export const ayats = [
     },
     {
         "number": 162,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "مَآ أَنتُمْ عَلَيْهِ بِفَـٰتِنِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/162.png"),
         "startTime": 1,
@@ -1305,7 +1305,7 @@ export const ayats = [
     },
     {
         "number": 163,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِلَّا مَنْ هُوَ صَالِ ٱلْجَحِيمِ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/163.png"),
         "startTime": 1,
@@ -1313,7 +1313,7 @@ export const ayats = [
     },
     {
         "number": 164,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَمَا مِنَّآ إِلَّا لَهُۥ مَقَامٌۭ مَّعْلُومٌۭ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/164.png"),
         "startTime": 1,
@@ -1321,7 +1321,7 @@ export const ayats = [
     },
     {
         "number": 165,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/165.png"),
         "startTime": 1,
@@ -1329,7 +1329,7 @@ export const ayats = [
     },
     {
         "number": 166,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَإِنَّا لَنَحْنُ ٱلْمُسَبِّحُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/166.png"),
         "startTime": 1,
@@ -1337,7 +1337,7 @@ export const ayats = [
     },
     {
         "number": 167,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَإِن كَانُوا۟ لَيَقُولُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/167.png"),
         "startTime": 1,
@@ -1345,7 +1345,7 @@ export const ayats = [
     },
     {
         "number": 168,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "لَوْ أَنَّ عِندَنَا ذِكْرًۭا مِّنَ ٱلْأَوَّلِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/168.png"),
         "startTime": 1,
@@ -1353,7 +1353,7 @@ export const ayats = [
     },
     {
         "number": 169,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "لَكُنَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/169.png"),
         "startTime": 1,
@@ -1361,7 +1361,7 @@ export const ayats = [
     },
     {
         "number": 170,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ يَعْلَمُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/170.png"),
         "startTime": 1,
@@ -1369,7 +1369,7 @@ export const ayats = [
     },
     {
         "number": 171,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا ٱلْمُرْسَلِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/171.png"),
         "startTime": 1,
@@ -1377,7 +1377,7 @@ export const ayats = [
     },
     {
         "number": 172,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "إِنَّهُمْ لَهُمُ ٱلْمَنصُورُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/172.png"),
         "startTime": 1,
@@ -1385,7 +1385,7 @@ export const ayats = [
     },
     {
         "number": 173,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَإِنَّ جُندَنَا لَهُمُ ٱلْغَـٰلِبُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/173.png"),
         "startTime": 1,
@@ -1393,7 +1393,7 @@ export const ayats = [
     },
     {
         "number": 174,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍۢ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/174.png"),
         "startTime": 1,
@@ -1401,7 +1401,7 @@ export const ayats = [
     },
     {
         "number": 175,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/175.png"),
         "startTime": 1,
@@ -1409,7 +1409,7 @@ export const ayats = [
     },
     {
         "number": 176,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/176.png"),
         "startTime": 1,
@@ -1417,7 +1417,7 @@ export const ayats = [
     },
     {
         "number": 177,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ ٱلْمُنذَرِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/177.png"),
         "startTime": 1,
@@ -1425,7 +1425,7 @@ export const ayats = [
     },
     {
         "number": 178,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍۢ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/178.png"),
         "startTime": 1,
@@ -1433,7 +1433,7 @@ export const ayats = [
     },
     {
         "number": 179,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/179.png"),
         "startTime": 1,
@@ -1441,7 +1441,7 @@ export const ayats = [
     },
     {
         "number": 180,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "سُبْحَـٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/180.png"),
         "startTime": 1,
@@ -1449,7 +1449,7 @@ export const ayats = [
     },
     {
         "number": 181,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَسَلَـٰمٌ عَلَى ٱلْمُرْسَلِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/181.png"),
         "startTime": 1,
@@ -1457,73 +1457,9 @@ export const ayats = [
     },
     {
         "number": 182,
-        "ar_ayat": "بِسْمِ",
+        "ar_ayat": "وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
         "pr_ayat": "innde",
         "img": require("../images/ayat/182.png"),
-        "startTime": 1,
-        "endTime": 2
-    },
-    {
-        "number": 183,
-        "ar_ayat": "بِسْمِ",
-        "pr_ayat": "innde",
-        "img": require("../images/ayat/183.png"),
-        "startTime": 1,
-        "endTime": 2
-    },
-    {
-        "number": 184,
-        "ar_ayat": "بِسْمِ",
-        "pr_ayat": "innde",
-        "img": require("../images/ayat/184.png"),
-        "startTime": 1,
-        "endTime": 2
-    },
-    {
-        "number": 185,
-        "ar_ayat": "بِسْمِ",
-        "pr_ayat": "innde",
-        "img": require("../images/ayat/185.png"),
-        "startTime": 1,
-        "endTime": 2
-    },
-    {
-        "number": 186,
-        "ar_ayat": "بِسْمِ",
-        "pr_ayat": "innde",
-        "img": require("../images/ayat/186.png"),
-        "startTime": 1,
-        "endTime": 2
-    },
-    {
-        "number": 187,
-        "ar_ayat": "بِسْمِ",
-        "pr_ayat": "innde",
-        "img": require("../images/ayat/187.png"),
-        "startTime": 1,
-        "endTime": 2
-    },
-    {
-        "number": 188,
-        "ar_ayat": "بِسْمِ",
-        "pr_ayat": "innde",
-        "img": require("../images/ayat/188.png"),
-        "startTime": 1,
-        "endTime": 2
-    },
-    {
-        "number": 189,
-        "ar_ayat": "بِسْمِ",
-        "pr_ayat": "innde",
-        "img": require("../images/ayat/189.png"),
-        "startTime": 1,
-        "endTime": 2
-    },
-    {
-        "number": 190,
-        "ar_ayat": "بِسْمِ",
-        "pr_ayat": "innde",
-        "img": require("../images/ayat/190.png"),
         "startTime": 1,
         "endTime": 2
     }
