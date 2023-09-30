@@ -1,7 +1,7 @@
 import { create } from 'apisauce'
 
 const apiClient = create({
-    baseURL: 'http://159.223.214.233:8080/api/v1/quran',
+    baseURL: 'http://146.190.150.139:8081/api/v1/quran',
     headers: {
         'Cache-Control': 'no-cache',
         'Content-Type': 'application/json',

@@ -8,7 +8,7 @@ export default [
         "pr_title": "Udditirnde",
         "ayat_number": 7,
         "ayat_img": require("./images/ayat/7.png"),
-        "ayat_url": "http://abousy.com/quran_audio/1_Fatiha.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/1_Fatiha.mp3",
         "page_number": 1,
         "size": 1308,
         "ayats_list": require("./ayats/1-faatih")
@@ -22,7 +22,7 @@ export default [
         "pr_title": "Laɓɓinoore",
         "ayat_number": 4,
         "ayat_img": require("./images/ayat/4.png"),
-        "ayat_url": "http://abousy.com/quran_audio/112_AlIkhlas.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/112_AlIkhlas.mp3",
         "page_number": 112,
         "size": 504,
         "ayats_list": require("./ayats/112-al-ikhlaas")
@@ -36,7 +36,7 @@ export default [
         "pr_title": "Weetndooga",
         "ayat_number": 5,
         "ayat_img": require("./images/ayat/5.png"),
-        "ayat_url": "http://abousy.com/quran_audio/113_AlFalaq.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/113_AlFalaq.mp3",
         "page_number": 113,
         "size": 684,
         "ayats_list": require("./ayats/113-al-falaq")
@@ -50,7 +50,7 @@ export default [
         "pr_title": "Yimɓe",
         "ayat_number": 6,
         "ayat_img": require("./images/ayat/6.png"),
-        "ayat_url": "http://abousy.com/quran_audio/114_AnNas.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/114_AnNas.mp3",
         "page_number": 114,
         "size": 864,
         "ayats_list": require("./ayats/114-an-naas")

@@ -5,7 +5,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_1.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_1.mp3",
         size: 3044
     },
     {
@@ -14,7 +14,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_2.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_2.mp3",
         size: 7520
     }
 ]

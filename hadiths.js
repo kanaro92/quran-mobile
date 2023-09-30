@@ -5,7 +5,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_1.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_1.mp3",
         size: 3044
     },
     {
@@ -14,7 +14,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_2.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_2.mp3",
         size: 7520
     },
     {
@@ -23,7 +23,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_3.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_3.mp3",
         size: 1776
     },
     {
@@ -32,7 +32,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_4.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_4.mp3",
         size: 4288
     },
     {
@@ -41,7 +41,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_5.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_5.mp3",
         size: 1512
     },
     {
@@ -50,7 +50,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_6.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_6.mp3",
         size: 3268
     },
     {
@@ -59,7 +59,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_7.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_7.mp3",
         size: 1496
     },
     {
@@ -68,7 +68,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_8.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_8.mp3",
         size: 2104
     },
     {
@@ -77,7 +77,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_9.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_9.mp3",
         size: 1772
     },
     {
@@ -86,7 +86,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_10.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_10.mp3",
         size: 3088
     },
     {
@@ -95,7 +95,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_11.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_11.mp3",
         size: 1760
     },
     {
@@ -104,7 +104,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_12.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_12.mp3",
         size: 1304
     },
     {
@@ -113,7 +113,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_13.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_13.mp3",
         size: 1380
     },
     {
@@ -122,7 +122,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_14.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_14.mp3",
         size: 1768
     },
     {
@@ -131,7 +131,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_15.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_15.mp3",
         size: 3044
     },
     {
@@ -140,7 +140,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_16.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_16.mp3",
         size: 1124
     },
     {
@@ -149,7 +149,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_17.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_17.mp3",
         size: 1784
     },
     {
@@ -158,7 +158,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_18.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_18.mp3",
         size: 1840
     },
     {
@@ -167,7 +167,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_19.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_19.mp3",
         size: 4668
     },
     {
@@ -176,7 +176,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_20.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_20.mp3",
         size: 1344
     },
     {
@@ -185,7 +185,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_21.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_21.mp3",
         size: 1400
     },
     {
@@ -194,7 +194,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_22.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_22.mp3",
         size: 1828
     },
     {
@@ -203,7 +203,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_23.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_23.mp3",
         size: 2656
     },
     {
@@ -212,7 +212,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_24.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_24.mp3",
         size: 7684
     },
     {
@@ -221,7 +221,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_25.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_25.mp3",
         size: 4288
     },
     {
@@ -230,7 +230,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_26.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_26.mp3",
         size: 2420
     },
     {
@@ -239,7 +239,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_27.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_27.mp3",
         size: 1828
     },
     {
@@ -248,7 +248,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_28.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_28.mp3",
         size: 3244
     },
     {
@@ -257,7 +257,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_29.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_29.mp3",
         size: 6556
     },
     {
@@ -266,7 +266,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_30.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_30.mp3",
         size: 2212
     },
     {
@@ -275,7 +275,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_31.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_31.mp3",
         size: 2064
     },
     {
@@ -284,7 +284,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_32.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_32.mp3",
         size: 1304
     },
     {
@@ -293,7 +293,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_33.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_33.mp3",
         size: 1752
     },
     {
@@ -302,7 +302,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_34.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_34.mp3",
         size: 1660
     },
     {
@@ -311,7 +311,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_35.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_35.mp3",
         size: 3044
     },
     {
@@ -320,7 +320,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_36.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_36.mp3",
         size: 3044
     },
     {
@@ -329,7 +329,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_37.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_37.mp3",
         size: 3044
     },
     {
@@ -338,7 +338,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_38.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_38.mp3",
         size: 3044
     },
     {
@@ -347,7 +347,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_39.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_39.mp3",
         size: 3044
     },
     {
@@ -356,7 +356,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_40.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_40.mp3",
         size: 3044
     },
     {
@@ -365,7 +365,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_41.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_41.mp3",
         size: 3044
     },
     {
@@ -374,7 +374,7 @@ export default [
         reporter: "",
         arText: "",
         prText: "",
-        audioLink: "http://abousy.com/hadiths/hadith_42.mp3",
+        audioLink: "http://146.190.150.139:8080/downloads/hadith/hadith_42.mp3",
         size: 3044
     }
 ]

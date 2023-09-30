@@ -36,7 +36,7 @@ import SoundPlayer from "react-native-sound-player";
 const {width, height} = Dimensions.get('screen');
 
 class QuranPulaarApp extends Component {
-    isRefresh: boolean = false;
+    isRefresh = false;
 
     constructor() {
         super();
@@ -98,13 +98,7 @@ class QuranPulaarApp extends Component {
                             ref={(ref) => {
                                 this.flatListRef = ref;
                             }}
-                            initialNumToRender={this.state.sourates.length}
-                            onScrollToIndexFailed={info => {
-                                const wait = new Promise(resolve => setTimeout(resolve, 500));
-                                wait.then(() => {
-                                    this.flatListRef.current?.scrollToIndex({ index: info.index, animated: true });
-                                });
-                            }}
+                            initialNumToRender={3}
                             keyExtractor={item => item.surat_number.toString()}
                             horizontal
                             pagingEnabled
@@ -249,7 +243,7 @@ class QuranPulaarApp extends Component {
                     this.setState({
                         sourates: allSourates
                     });
-                    this.sleep(40000).then(() => {
+                    this.sleep(4000).then(() => {
                         this.setState({
                             spinner: false
                         });
@@ -378,7 +372,7 @@ class QuranPulaarApp extends Component {
             sourates: allSourates
         });
         appService.storeData('quranCode', response.data.code.code);
-        this.sleep(40000).then(() => {
+        this.sleep(4000).then(() => {
             this.setState({
                 spinner: false
             });
@@ -479,10 +473,12 @@ const styles = StyleSheet.create({
         fontFamily: 'sans-serif-condensed',
         fontWeight: 'bold',
         fontSize: 25,
+        color: '#000'
     },
     loading_text: {
         fontFamily: 'sans-serif-condensed',
         fontSize: 20,
+        color: '#000'
     },
     spinner_view: {
         flexDirection: "row",
@@ -548,19 +544,23 @@ const styles = StyleSheet.create({
         textAlign: 'center',
         fontWeight: 'bold',
         fontSize: 16,
+        color: '#000'
     },
     name_text: {
         fontWeight: 'bold',
         fontSize: 22,
-        paddingLeft: 20
+        paddingLeft: 20,
+        color: '#000'
     },
     phone_text: {
         fontSize: 22,
-        paddingLeft: 20
+        paddingLeft: 20,
+        color: '#000'
     },
     text: {
         fontSize: 16,
-        paddingLeft: 20
+        paddingLeft: 20,
+        color: '#000'
     },
     bold_text: {
         fontWeight: 'bold',

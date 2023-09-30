@@ -35,7 +35,7 @@ class InfoComponent extends Component {
                     <Text style={styles.contacts}>+221 77 3091782</Text>
                     <Text/>
                     <Text style={styles.contacts}>Hamath Kan - كان همات </Text>
-                    <Text style={styles.contacts}>kanaro1992@gmail.com</Text>
+                    <Text style={styles.contacts}>kawkumputer@gmail.com</Text>
                     <Text style={styles.contacts}>+212646179679</Text>
                 </ScrollView>
             </View>
@@ -54,11 +54,13 @@ const styles = StyleSheet.create({
         textAlign: 'center',
         fontWeight: 'bold',
         fontSize: 16,
+        color: '#000'
     },
     text: {
         textAlign: 'center',
         fontSize: 16,
-        padding: 4
+        padding: 4,
+        color: '#000'
     },
     bold_text: {
         fontWeight: 'bold',

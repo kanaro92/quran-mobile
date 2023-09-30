@@ -103,6 +103,7 @@ const styles = StyleSheet.create({
         fontSize: 18,
         fontFamily: "sans-serif-medium",
         fontWeight: 'normal',
+        color: '#000'
     },
     pr_title_width: {
         width: 180,
@@ -115,9 +116,11 @@ const styles = StyleSheet.create({
     },
     pr_title_text: {
         fontSize: 13,
+        color: '#000'
     },
     ar_title_text: {
         fontSize: 16,
+        color: '#000'
     },
     separator: {
         width: "100%",

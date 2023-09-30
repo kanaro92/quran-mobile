@@ -83,19 +83,23 @@ const styles = StyleSheet.create({
         textAlign: 'center',
         fontWeight: 'bold',
         fontSize: 16,
+        color: '#000'
     },
     name_text: {
         fontWeight: 'bold',
         fontSize: 22,
-        paddingLeft: 20
+        paddingLeft: 20,
+        color: '#000'
     },
     phone_text: {
         fontSize: 22,
-        paddingLeft: 20
+        paddingLeft: 20,
+        color: '#000'
     },
     text: {
         fontSize: 16,
-        paddingLeft: 20
+        paddingLeft: 20,
+        color: '#000'
     },
     bold_text: {
         fontWeight: 'bold',

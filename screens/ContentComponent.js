@@ -52,11 +52,11 @@ class ContentComponent extends PureComponent {
                         <View style={[styles.play_icon]}>
                             {this.state.spinner ?
                                 <View style={styles.progress_view}>
-                                    <Text>Ina aawto simoore nde...</Text>
+                                    <Text style={[styles.downloadText]}>Ina aawto simoore nde...</Text>
                                     <View style={styles.spinner_view}>
                                         <Text><Progress.Bar color={'green'} progress={this.state.progressNumber}
                                                             width={150}/></Text>
-                                        <Text> {this.state.receivedByte}/{(this.props.item.size / 1024).toFixed(2)}Mb</Text>
+                                        <Text style={[styles.downloadText]}> {this.state.receivedByte}/{(this.props.item.size / 1024).toFixed(2)}Mb</Text>
                                     </View>
                                 </View> :
                                 <View>
@@ -164,7 +164,7 @@ class ContentComponent extends PureComponent {
             });
             return;
         }
-        let fileName = url.substring(30, url.length - 4);
+        let fileName = url.substring(44, url.length - 4);
         let filePath = RNFetchBlob.fs.dirs.DocumentDir + '/' + fileName;
         RNFetchBlob.fs.exists(filePath + '.mp3').then(res => {
             if (res) {
@@ -216,7 +216,7 @@ class ContentComponent extends PureComponent {
     }
 
     playAyat(url: string, startTime: number, endTime: number, size: number) {
-        let fileName = url.substring(30, url.length - 4);
+        let fileName = url.substring(44, url.length - 4);
         if (fileName !== "1_Fatiha") {
             return;
         }
@@ -294,7 +294,7 @@ class ContentComponent extends PureComponent {
         this.setState({
             spinner: true
         });
-        let fileName = url.substring(30, url.length - 4);
+        let fileName = url.substring(44, url.length - 4);
         const {fs: {dirs}} = RNFetchBlob
         const PATH_TO_LIST = dirs.DocumentDir
         const dest = `${PATH_TO_LIST}/${fileName}.mp3`
@@ -453,11 +453,13 @@ const styles = StyleSheet.create({
         marginTop: 5,
         fontWeight: 'bold',
         fontSize: 19,
+        color: '#000'
     },
     pr_title_text: {
         marginTop: 5,
         fontWeight: 'bold',
         fontSize: 16,
+        color: '#000'
     },
     juzz: {
         paddingLeft: 10,
@@ -467,6 +469,7 @@ const styles = StyleSheet.create({
     },
     juzz_text: {
         fontSize: 12,
+        color: '#000'
     },
     progress_view: {
         alignItems: 'center',
@@ -494,12 +497,14 @@ const styles = StyleSheet.create({
     ar_ayat_text: {
         fontSize: 20,
         textAlign: 'center',
-        padding: 3
+        padding: 3,
+        color: '#000'
     },
     pr_ayat_text: {
         fontSize: 16,
         textAlign: 'center',
-        padding: 3
+        padding: 3,
+        color: '#000'
     },
     footer: {
         flexDirection: 'row',
@@ -517,6 +522,7 @@ const styles = StyleSheet.create({
         textAlign: 'center',
         fontWeight: 'bold',
         fontSize: 18,
+        color: '#000'
     },
     badge: {
         height: 12,
@@ -555,6 +561,9 @@ const styles = StyleSheet.create({
     backward_seek_second: {
         fontSize: 16,
         paddingRight: 2
-    }
+    },
+    downloadText: {
+        color: '#000'
+    },
 });
 

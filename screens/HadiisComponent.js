@@ -138,7 +138,8 @@ class HadiisComponent extends Component {
         this.setState({
             currentHadiisId: item.id
         });
-        let fileName = item.audioLink.substring(30, item.audioLink.length - 4);
+        let fileName = item.audioLink.substring(45, item.audioLink.length - 4);
+        alert(fileName)
         let filePath = RNFetchBlob.fs.dirs.DocumentDir + '/' + fileName;
         RNFetchBlob.fs.exists(filePath + '.mp3').then(res => {
             if (res) {
@@ -216,7 +217,8 @@ class HadiisComponent extends Component {
             spinner: true,
             currentHadiisId: item.id
         });
-        let fileName = item.audioLink.substring(30, item.audioLink.length - 4);
+        let fileName = item.audioLink.substring(45, item.audioLink.length - 4);
+        alert(fileName)
         const {fs: {dirs}} = RNFetchBlob
         const PATH_TO_LIST = dirs.DocumentDir
         const dest = `${PATH_TO_LIST}/${fileName}.mp3`
@@ -313,6 +315,7 @@ const styles = StyleSheet.create({
         fontSize: 18,
         fontFamily: "sans-serif-medium",
         fontWeight: 'normal',
+        color: '#000'
     },
     play_icon: {
         flexDirection: 'row',
@@ -333,6 +336,7 @@ const styles = StyleSheet.create({
     },
     title_text: {
         fontSize: 15,
+        color: '#000'
     },
     separator: {
         width: "100%",

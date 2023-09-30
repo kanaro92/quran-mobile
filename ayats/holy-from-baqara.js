@@ -8,7 +8,7 @@ export default [
         "pr_title": "Udditirnde",
         "ayat_number": 7,
         "ayat_img": require("../images/ayat/7.png"),
-        "ayat_url": "http://abousy.com/quran_audio/1_Fatiha.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/1_Fatiha.mp3",
         "page_number": 1,
         "size": 1308,
         "ayat": [
@@ -79,7 +79,7 @@ export default [
         "pr_title": "Nagge nge",
         "ayat_number": 286,
         "ayat_img": require("../images/ayat/286.png"),
-        "ayat_url": "http://abousy.com/quran_audio/2_Baqara.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/2_Baqara.mp3",
         "page_number": 2,
         "size": 195368,
         "ayat": [
@@ -2390,7 +2390,7 @@ export default [
         "pr_title": "Ɓesngu Imraana",
         "ayat_number": 200,
         "ayat_img": require("./images/ayat/200.png"),
-        "ayat_url": "http://abousy.com/quran_audio/3_Imraana.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/3_Imraana.mp3",
         "page_number": 3,
         "size": 162932,
         "ayat": [
@@ -4213,7 +4213,7 @@ export default [
         "pr_title": "Rewɓe",
         "ayat_number": 176,
         "ayat_img": require("./images/ayat/176.png"),
-        "ayat_url": "http://abousy.com/quran_audio/4_AnNisaa.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/4_AnNisaa.mp3",
         "page_number": 4,
         "size": 169476,
         "ayat": [
@@ -5756,7 +5756,7 @@ export default [
         "pr_title": "Lahal",
         "ayat_number": 120,
         "ayat_img": require("./images/ayat/120.png"),
-        "ayat_url": "http://abousy.com/quran_audio/5_AlMaida.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/5_AlMaida.mp3",
         "page_number": 5,
         "size": 132596,
         "ayat": [
@@ -6819,7 +6819,7 @@ export default [
         "pr_title": "Ndammiri",
         "ayat_number": 165,
         "ayat_img": require("./images/ayat/165.png"),
-        "ayat_url": "http://abousy.com/quran_audio/6_AlAnaami.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/6_AlAnaami.mp3",
         "page_number": 6,
         "size": 144252,
         "ayat": [
@@ -8122,7 +8122,7 @@ export default [
         "pr_title": "Al-aaraaf",
         "ayat_number": 206,
         "ayat_img": require("./images/ayat/206.png"),
-        "ayat_url": "http://abousy.com/quran_audio/7_AlAaraaf.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/7_AlAaraaf.mp3",
         "page_number": 7,
         "size": 158904,
         "ayat": [
@@ -9945,7 +9945,7 @@ export default [
         "pr_title": "Ganle/Keɓe",
         "ayat_number": 75,
         "ayat_img": require("./images/ayat/75.png"),
-        "ayat_url": "http://abousy.com/quran_audio/8_AlAnfaali.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/8_AlAnfaali.mp3",
         "page_number": 8,
         "size": 60260,
         "ayat": [
@@ -10608,7 +10608,7 @@ export default [
         "pr_title": "Duttatagol/Tuubgol",
         "ayat_number": 129,
         "ayat_img": require("./images/ayat/129.png"),
-        "ayat_url": "http://abousy.com/quran_audio/9_Attawba.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/9_Attawba.mp3",
         "page_number": 9,
         "size": 121120,
         "ayat": [
@@ -11671,7 +11671,7 @@ export default [
         "pr_title": "Yuunus",
         "ayat_number": 109,
         "ayat_img": require("./images/ayat/109.png"),
-        "ayat_url": "http://abousy.com/quran_audio/10_Yuunus.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/10_Yuunus.mp3",
         "page_number": 10,
         "size": 86164,
         "ayat": [
@@ -12574,7 +12574,7 @@ export default [
         "pr_title": "Huudu",
         "ayat_number": 123,
         "ayat_img": require("./images/ayat/123.png"),
-        "ayat_url": "http://abousy.com/quran_audio/11_Huudu.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/11_Huudu.mp3",
         "page_number": 11,
         "size": 90428,
         "ayat": [
@@ -13637,7 +13637,7 @@ export default [
         "pr_title": "Yuusuf",
         "ayat_number": 111,
         "ayat_img": require("./images/ayat/111.png"),
-        "ayat_url": "http://abousy.com/quran_audio/12_Yuusuf.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/12_Yuusuf.mp3",
         "page_number": 12,
         "size": 82592,
         "ayat": [
@@ -14540,7 +14540,7 @@ export default [
         "pr_title": "Rigaango",
         "ayat_number": 43,
         "ayat_img": require("./images/ayat/43.png"),
-        "ayat_url": "http://abousy.com/quran_audio/13_AlRaadu.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/13_AlRaadu.mp3",
         "page_number": 13,
         "size": 39160,
         "ayat": [
@@ -14963,7 +14963,7 @@ export default [
         "pr_title": "Ibraahiima",
         "ayat_number": 52,
         "ayat_img": require("./images/ayat/52.png"),
-        "ayat_url": "http://abousy.com/quran_audio/14_Ibraahiima.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/14_Ibraahiima.mp3",
         "page_number": 14,
         "size": 39444,
         "ayat": [
@@ -15386,7 +15386,7 @@ export default [
         "pr_title": "Fergo",
         "ayat_number": 99,
         "ayat_img": require("./images/ayat/99.png"),
-        "ayat_url": "http://abousy.com/quran_audio/15_AlHijri.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/15_AlHijri.mp3",
         "page_number": 15,
         "size": 32268,
         "ayat": [
@@ -16289,7 +16289,7 @@ export default [
         "pr_title": "Ñaaki",
         "ayat_number": 128,
         "ayat_img": require("./images/ayat/128.png"),
-        "ayat_url": "http://abousy.com/quran_audio/16_AlNahli.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/16_AlNahli.mp3",
         "page_number": 16,
         "size": 84348,
         "ayat": [
@@ -17352,7 +17352,7 @@ export default [
         "pr_title": "Doƴgol",
         "ayat_number": 111,
         "ayat_img": require("./images/ayat/111.png"),
-        "ayat_url": "http://abousy.com/quran_audio/17_Israa.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/17_Israa.mp3",
         "page_number": 17,
         "size": 65172,
         "ayat": [
@@ -18255,7 +18255,7 @@ export default [
         "pr_title": "Wimmbo",
         "ayat_number": 110,
         "ayat_img": require("./images/ayat/110.png"),
-        "ayat_url": "http://abousy.com/quran_audio/18_Kahfi.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/18_Kahfi.mp3",
         "page_number": 18,
         "size": 69920,
         "ayat": [
@@ -19158,7 +19158,7 @@ export default [
         "pr_title": "Mariyam",
         "ayat_number": 98,
         "ayat_img": require("./images/ayat/98.png"),
-        "ayat_url": "http://abousy.com/quran_audio/19_Mariyam.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/19_Mariyam.mp3",
         "page_number": 19,
         "size": 40676,
         "ayat": [
@@ -20061,7 +20061,7 @@ export default [
         "pr_title": "Ɗaa-hee",
         "ayat_number": 135,
         "ayat_img": require("./images/ayat/135.png"),
-        "ayat_url": "http://abousy.com/quran_audio/20_Daahee.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/20_Daahee.mp3",
         "page_number": 20,
         "size": 60032,
         "ayat": [
@@ -21124,7 +21124,7 @@ export default [
         "pr_title": "Annabaaɓe",
         "ayat_number": 112,
         "ayat_img": require("./images/ayat/112.png"),
-        "ayat_url": "http://abousy.com/quran_audio/21_AlAnbiyaa.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/21_AlAnbiyaa.mp3",
         "page_number": 21,
         "size": 56068,
         "ayat": [
@@ -22027,7 +22027,7 @@ export default [
         "pr_title": "Hijjoore",
         "ayat_number": 78,
         "ayat_img": require("./images/ayat/78.png"),
-        "ayat_url": "http://abousy.com/quran_audio/22_AlHajji.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/22_AlHajji.mp3",
         "page_number": 22,
         "size": 58212,
         "ayat": [
@@ -22690,7 +22690,7 @@ export default [
         "pr_title": "Goongɗinɓe",
         "ayat_number": 118,
         "ayat_img": require("./images/ayat/118.png"),
-        "ayat_url": "http://abousy.com/quran_audio/23_AlMuumunuun.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/23_AlMuumunuun.mp3",
         "page_number": 23,
         "size": 49764,
         "ayat": [
@@ -23753,7 +23753,7 @@ export default [
         "pr_title": "Lewlewal",
         "ayat_number": 64,
         "ayat_img": require("./images/ayat/64.png"),
-        "ayat_url": "http://abousy.com/quran_audio/24_AnNuuru.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/24_AnNuuru.mp3",
         "page_number": 24,
         "size": 63052,
         "ayat": [
@@ -24416,7 +24416,7 @@ export default [
         "pr_title": "Seerndoore",
         "ayat_number": 77,
         "ayat_img": require("./images/ayat/77.png"),
-        "ayat_url": "http://abousy.com/quran_audio/25_Fourqaan.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/25_Fourqaan.mp3",
         "page_number": 25,
         "size": 40020,
         "ayat": [
@@ -25079,7 +25079,7 @@ export default [
         "pr_title": "Yimiyaŋkooɓe",
         "ayat_number": 227,
         "ayat_img": require("./images/ayat/227.png"),
-        "ayat_url": "http://abousy.com/quran_audio/26_AsSouaraa.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/26_AsSouaraa.mp3",
         "page_number": 26,
         "size": 65796,
         "ayat": [
@@ -26902,7 +26902,7 @@ export default [
         "pr_title": "Korndolli",
         "ayat_number": 93,
         "ayat_img": require("./images/ayat/93.png"),
-        "ayat_url": "http://abousy.com/quran_audio/27_AnNamli.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/27_AnNamli.mp3",
         "page_number": 27,
         "size": 56100,
         "ayat": [
@@ -27805,7 +27805,7 @@ export default [
         "pr_title": "Daarti",
         "ayat_number": 88,
         "ayat_img": require("./images/ayat/88.png"),
-        "ayat_url": "http://abousy.com/quran_audio/28_AlQasasi.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/28_AlQasasi.mp3",
         "page_number": 28,
         "size": 67792,
         "ayat": [
@@ -28468,7 +28468,7 @@ export default [
         "pr_title": "Njamala",
         "ayat_number": 69,
         "ayat_img": require("./images/ayat/69.png"),
-        "ayat_url": "http://abousy.com/quran_audio/29_AlAnkabuuti.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/29_AlAnkabuuti.mp3",
         "page_number": 29,
         "size": 46776,
         "ayat": [
@@ -28891,7 +28891,7 @@ export default [
         "pr_title": "Ar-Ruum",
         "ayat_number": 60,
         "ayat_img": require("./images/ayat/60.png"),
-        "ayat_url": "http://abousy.com/quran_audio/30_ArRuum.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/30_ArRuum.mp3",
         "page_number": 30,
         "size": 38564,
         "ayat": [
@@ -29314,7 +29314,7 @@ export default [
         "pr_title": "Luqmaan",
         "ayat_number": 34,
         "ayat_img": require("./images/ayat/34.png"),
-        "ayat_url": "http://abousy.com/quran_audio/31_Luqmaan.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/31_Luqmaan.mp3",
         "page_number": 31,
         "size": 23904,
         "ayat": [
@@ -29577,7 +29577,7 @@ export default [
         "pr_title": "Tukkagol",
         "ayat_number": 30,
         "ayat_img": require("./images/ayat/30.png"),
-        "ayat_url": "http://abousy.com/quran_audio/32_AlSajada.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/32_AlSajada.mp3",
         "page_number": 32,
         "size": 17908,
         "ayat": [
@@ -29840,7 +29840,7 @@ export default [
         "pr_title": "Pelle",
         "ayat_number": 73,
         "ayat_img": require("./images/ayat/73.png"),
-        "ayat_url": "http://abousy.com/quran_audio/33_AlAhzab.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/33_AlAhzab.mp3",
         "page_number": 33,
         "size": 60744,
         "ayat": [
@@ -30503,7 +30503,7 @@ export default [
         "pr_title": "Saba’i",
         "ayat_number": 54,
         "ayat_img": require("./images/ayat/54.png"),
-        "ayat_url": "http://abousy.com/quran_audio/34_Sabai.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/34_Sabai.mp3",
         "page_number": 34,
         "size": 39600,
         "ayat": [
@@ -30926,7 +30926,7 @@ export default [
         "pr_title": "Tagɗo",
         "ayat_number": 45,
         "ayat_img": require("./images/ayat/45.png"),
-        "ayat_url": "http://abousy.com/quran_audio/35_AlFatir.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/35_AlFatir.mp3",
         "page_number": 35,
         "size": 35488,
         "ayat": [
@@ -31349,7 +31349,7 @@ export default [
         "pr_title": "Yaasiin",
         "ayat_number": 83,
         "ayat_img": require("./images/ayat/83.png"),
-        "ayat_url": "http://abousy.com/quran_audio/36_Yaasiin.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/36_Yaasiin.mp3",
         "page_number": 36,
         "size": 35064,
         "ayat": [
@@ -32012,7 +32012,7 @@ export default [
         "pr_title": "Gori",
         "ayat_number": 182,
         "ayat_img": require("./images/ayat/182.png"),
-        "ayat_url": "http://abousy.com/quran_audio/37_AlSaafaati.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/37_AlSaafaati.mp3",
         "page_number": 37,
         "size": 46452,
         "ayat": [
@@ -33555,7 +33555,7 @@ export default [
         "pr_title": "Saad",
         "ayat_number": 88,
         "ayat_img": require("./images/ayat/88.png"),
-        "ayat_url": "http://abousy.com/quran_audio/38_Saad.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/38_Saad.mp3",
         "page_number": 38,
         "size": 36376,
         "ayat": [
@@ -34218,7 +34218,7 @@ export default [
         "pr_title": "Dente",
         "ayat_number": 75,
         "ayat_img": require("./images/ayat/75.png"),
-        "ayat_url": "http://abousy.com/quran_audio/39_AlZumar.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/39_AlZumar.mp3",
         "page_number": 39,
         "size": 54772,
         "ayat": [
@@ -34881,7 +34881,7 @@ export default [
         "pr_title": "Jaafotooɗo",
         "ayat_number": 85,
         "ayat_img": require("./images/ayat/85.png"),
-        "ayat_url": "http://abousy.com/quran_audio/40_AlGaafir.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/40_AlGaafir.mp3",
         "page_number": 40,
         "size": 56184,
         "ayat": [
@@ -35544,7 +35544,7 @@ export default [
         "pr_title": "Ceerndugol",
         "ayat_number": 54,
         "ayat_img": require("./images/ayat/54.png"),
-        "ayat_url": "http://abousy.com/quran_audio/41_FusSilat.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/41_FusSilat.mp3",
         "page_number": 41,
         "size": 39808,
         "ayat": [
@@ -35967,7 +35967,7 @@ export default [
         "pr_title": "Diisnondiral",
         "ayat_number": 53,
         "ayat_img": require("./images/ayat/53.png"),
-        "ayat_url": "http://abousy.com/quran_audio/42_AsSuura.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/42_AsSuura.mp3",
         "page_number": 42,
         "size": 43056,
         "ayat": [
@@ -36390,7 +36390,7 @@ export default [
         "pr_title": "Cuɗaari",
         "ayat_number": 89,
         "ayat_img": require("./images/ayat/89.png"),
-        "ayat_url": "http://abousy.com/quran_audio/43_AzZoukhraf.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/43_AzZoukhraf.mp3",
         "page_number": 43,
         "size": 41792,
         "ayat": [
@@ -37053,7 +37053,7 @@ export default [
         "pr_title": "Cuurki",
         "ayat_number": 59,
         "ayat_img": require("./images/ayat/59.png"),
-        "ayat_url": "http://abousy.com/quran_audio/44_AdDukhan.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/44_AdDukhan.mp3",
         "page_number": 44,
         "size": 18192,
         "ayat": [
@@ -37476,7 +37476,7 @@ export default [
         "pr_title": "Dicciiɗo",
         "ayat_number": 37,
         "ayat_img": require("./images/ayat/37.png"),
-        "ayat_url": "http://abousy.com/quran_audio/45_AlJaasiyatou.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/45_AlJaasiyatou.mp3",
         "page_number": 45,
         "size": 22852,
         "ayat": [
@@ -37739,7 +37739,7 @@ export default [
         "pr_title": "Luggere",
         "ayat_number": 35,
         "ayat_img": require("./images/ayat/35.png"),
-        "ayat_url": "http://abousy.com/quran_audio/46_AlAhqaaf.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/46_AlAhqaaf.mp3",
         "page_number": 46,
         "size": 31128,
         "ayat": [
@@ -38002,7 +38002,7 @@ export default [
         "pr_title": "Muhammadu",
         "ayat_number": 38,
         "ayat_img": require("./images/ayat/38.png"),
-        "ayat_url": "http://abousy.com/quran_audio/47_Mouhammad.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/47_Mouhammad.mp3",
         "page_number": 47,
         "size": 26380,
         "ayat": [
@@ -38265,7 +38265,7 @@ export default [
         "pr_title": "Udditaare",
         "ayat_number": 29,
         "ayat_img": require("./images/ayat/29.png"),
-        "ayat_url": "http://abousy.com/quran_audio/48_AlFathi.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/48_AlFathi.mp3",
         "page_number": 48,
         "size": 25852,
         "ayat": [
@@ -38528,7 +38528,7 @@ export default [
         "pr_title": "Cuuɗi",
         "ayat_number": 18,
         "ayat_img": require("./images/ayat/18.png"),
-        "ayat_url": "http://abousy.com/quran_audio/49_AlHujuraat.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/49_AlHujuraat.mp3",
         "page_number": 49,
         "size": 17252,
         "ayat": [
@@ -38791,7 +38791,7 @@ export default [
         "pr_title": "Qaaf",
         "ayat_number": 45,
         "ayat_img": require("./images/ayat/45.png"),
-        "ayat_url": "http://abousy.com/quran_audio/50_Qaaf.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/50_Qaaf.mp3",
         "page_number": 50,
         "size": 17124,
         "ayat": [
@@ -39214,7 +39214,7 @@ export default [
         "pr_title": "Carkitooji",
         "ayat_number": 60,
         "ayat_img": require("./images/ayat/60.png"),
-        "ayat_url": "http://abousy.com/quran_audio/51_AzZariyat.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/51_AzZariyat.mp3",
         "page_number": 51,
         "size": 17152,
         "ayat": [
@@ -39877,7 +39877,7 @@ export default [
         "pr_title": "haayre Tulliniinde",
         "ayat_number": 49,
         "ayat_img": require("./images/ayat/49.png"),
-        "ayat_url": "http://abousy.com/quran_audio/52_AtTuuri.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/52_AtTuuri.mp3",
         "page_number": 52,
         "size": 16436,
         "ayat": [
@@ -40300,7 +40300,7 @@ export default [
         "pr_title": "Hoodere",
         "ayat_number": 62,
         "ayat_img": require("./images/ayat/62.png"),
-        "ayat_url": "http://abousy.com/quran_audio/53_AnNajmi.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/53_AnNajmi.mp3",
         "page_number": 53,
         "size": 17280,
         "ayat": [
@@ -40963,7 +40963,7 @@ export default [
         "pr_title": "Lewru",
         "ayat_number": 55,
         "ayat_img": require("./images/ayat/55.png"),
-        "ayat_url": "http://abousy.com/quran_audio/54_AlQamari.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/54_AlQamari.mp3",
         "page_number": 54,
         "size": 17532,
         "ayat": [
@@ -41626,7 +41626,7 @@ export default [
         "pr_title": "Jurumdeero",
         "ayat_number": 78,
         "ayat_img": require("./images/ayat/78.png"),
-        "ayat_url": "http://abousy.com/quran_audio/55_AlRahman.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/55_AlRahman.mp3",
         "page_number": 55,
         "size": 22296,
         "ayat": [
@@ -42289,7 +42289,7 @@ export default [
         "pr_title": "Ñalngu Ñaawoore",
         "ayat_number": 96,
         "ayat_img": require("./images/ayat/96.png"),
-        "ayat_url": "http://abousy.com/quran_audio/56_AlWaqiah.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/56_AlWaqiah.mp3",
         "page_number": 56,
         "size": 22856,
         "ayat": [
@@ -43080,7 +43080,7 @@ export default [
         "pr_title": "Njamndi",
         "ayat_number": 29,
         "ayat_img": require("./images/ayat/29.png"),
-        "ayat_url": "http://abousy.com/quran_audio/57_AlHadiidi.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/57_AlHadiidi.mp3",
         "page_number": 57,
         "size": 28472,
         "ayat": [
@@ -43335,7 +43335,7 @@ export default [
         "pr_title": "Coŋkondiral",
         "ayat_number": 22,
         "ayat_img": require("./images/ayat/22.png"),
-        "ayat_url": "http://abousy.com/quran_audio/58_AlMujadila.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/58_AlMujadila.mp3",
         "page_number": 58,
         "size": 23104,
         "ayat": [
@@ -43617,7 +43617,7 @@ export default [
         "pr_title": "Fergo",
         "ayat_number": 24,
         "ayat_img": require("./images/ayat/24.png"),
-        "ayat_url": "http://abousy.com/quran_audio/59_AlHasri.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/59_AlHasri.mp3",
         "page_number": 59,
         "size": 21868,
         "ayat": [
@@ -43909,7 +43909,7 @@ export default [
         "pr_title": "Ƴeewndaaɗo",
         "ayat_number": 13,
         "ayat_img": require("./images/ayat/13.png"),
-        "ayat_url": "http://abousy.com/quran_audio/60_AlMumtahinatu.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/60_AlMumtahinatu.mp3",
         "page_number": 60,
         "size": 17156,
         "ayat": [
@@ -44096,7 +44096,7 @@ export default [
         "pr_title": "Gorol",
         "ayat_number": 14,
         "ayat_img": require("./images/ayat/14.png"),
-        "ayat_url": "http://abousy.com/quran_audio/61_AsSaffi.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/61_AsSaffi.mp3",
         "page_number": 61,
         "size": 10460,
         "ayat": [
@@ -44267,7 +44267,7 @@ export default [
         "pr_title": "Mawnde",
         "ayat_number": 11,
         "ayat_img": require("./images/ayat/11.png"),
-        "ayat_url": "http://abousy.com/quran_audio/62_AlJuma.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/62_AlJuma.mp3",
         "page_number": 62,
         "size": 8808,
         "ayat": [
@@ -44407,7 +44407,7 @@ export default [
         "pr_title": "Naafigeeɓe",
         "ayat_number": 11,
         "ayat_img": require("./images/ayat/11.png"),
-        "ayat_url": "http://abousy.com/quran_audio/63_AlMounafiqoun.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/63_AlMounafiqoun.mp3",
         "page_number": 63,
         "size": 9088,
         "ayat": [
@@ -44548,7 +44548,7 @@ export default [
         "pr_title": "Waasre",
         "ayat_number": 18,
         "ayat_img": require("./images/ayat/18.png"),
-        "ayat_url": "http://abousy.com/quran_audio/64_AtTagabun.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/64_AtTagabun.mp3",
         "page_number": 64,
         "size": 12096,
         "ayat": [
@@ -44757,7 +44757,7 @@ export default [
         "pr_title": "Ceergal",
         "ayat_number": 12,
         "ayat_img": require("./images/ayat/12.png"),
-        "ayat_url": "http://abousy.com/quran_audio/65_AtTalaaqi.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/65_AtTalaaqi.mp3",
         "page_number": 65,
         "size": 14508,
         "ayat": [
@@ -44921,7 +44921,7 @@ export default [
         "pr_title": "Haɗiinde",
         "ayat_number": 12,
         "ayat_img": require("./images/ayat/12.png"),
-        "ayat_url": "http://abousy.com/quran_audio/66_AtTahrimi.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/66_AtTahrimi.mp3",
         "page_number": 66,
         "size": 16544,
         "ayat": [
@@ -45085,7 +45085,7 @@ export default [
         "pr_title": "Laamateeri",
         "ayat_number": 30,
         "ayat_img": require("./images/ayat/30.png"),
-        "ayat_url": "http://abousy.com/quran_audio/67_AlMoulki.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/67_AlMoulki.mp3",
         "page_number": 67,
         "size": 16544,
         "ayat": [
@@ -45406,7 +45406,7 @@ export default [
         "pr_title": "Binndirgal",
         "ayat_number": 52,
         "ayat_img": require("./images/ayat/52.png"),
-        "ayat_url": "http://abousy.com/quran_audio/68_AlQalam.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/68_AlQalam.mp3",
         "page_number": 68,
         "size": 15596,
         "ayat": [
@@ -45892,7 +45892,7 @@ export default [
         "pr_title": "Jojjinoore",
         "ayat_number": 52,
         "ayat_img": require("./images/ayat/52.png"),
-        "ayat_url": "http://abousy.com/quran_audio/69_AlHaqqah.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/69_AlHaqqah.mp3",
         "page_number": 69,
         "size": 13320,
         "ayat": [
@@ -46369,7 +46369,7 @@ export default [
         "pr_title": "Ŋabbirɗe",
         "ayat_number": 44,
         "ayat_img": require("./images/ayat/44.png"),
-        "ayat_url": "http://abousy.com/quran_audio/70_AlMaarij.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/70_AlMaarij.mp3",
         "page_number": 70,
         "size": 10796,
         "ayat": [
@@ -46784,7 +46784,7 @@ export default [
         "pr_title": "Nuuhu",
         "ayat_number": 28,
         "ayat_img": require("./images/ayat/28.png"),
-        "ayat_url": "http://abousy.com/quran_audio/71_Nouh.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/71_Nouh.mp3",
         "page_number": 71,
         "size": 10976,
         "ayat": [
@@ -47065,7 +47065,7 @@ export default [
         "pr_title": "Konndoroŋaaji",
         "ayat_number": 28,
         "ayat_img": require("./images/ayat/28.png"),
-        "ayat_url": "http://abousy.com/quran_audio/72_AlJinn.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/72_AlJinn.mp3",
         "page_number": 72,
         "size": 8632,
         "ayat": [
@@ -47363,7 +47363,7 @@ export default [
         "pr_title": "Mojiiɗo/Cuddiiɗo",
         "ayat_number": 20,
         "ayat_img": require("./images/ayat/20.png"),
-        "ayat_url": "http://abousy.com/quran_audio/73_AlMouzammil.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/73_AlMouzammil.mp3",
         "page_number": 73,
         "size": 6728,
         "ayat": [
@@ -47587,7 +47587,7 @@ export default [
         "pr_title": "Cuddiiɗo",
         "ayat_number": 56,
         "ayat_img": require("./images/ayat/56.png"),
-        "ayat_url": "http://abousy.com/quran_audio/74_AlMouddassir.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/74_AlMouddassir.mp3",
         "page_number": 74,
         "size": 9164,
         "ayat": [
@@ -48102,7 +48102,7 @@ export default [
         "pr_title": "Darnga",
         "ayat_number": 40,
         "ayat_img": require("./images/ayat/40.png"),
-        "ayat_url": "http://abousy.com/quran_audio/75_AlQiyamah.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/75_AlQiyamah.mp3",
         "page_number": 75,
         "size": 8520,
         "ayat": [
@@ -48475,7 +48475,7 @@ export default [
         "pr_title": "Neɗɗo",
         "ayat_number": 31,
         "ayat_img": require("./images/ayat/31.png"),
-        "ayat_url": "http://abousy.com/quran_audio/76_AlInsan.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/76_AlInsan.mp3",
         "page_number": 76,
         "size": 8136,
         "ayat": [
@@ -48789,7 +48789,7 @@ export default [
         "pr_title": "Nulaateeɗi",
         "ayat_number": 50,
         "ayat_img": require("./images/ayat/50.png"),
-        "ayat_url": "http://abousy.com/quran_audio/77_AlMoursalat.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/77_AlMoursalat.mp3",
         "page_number": 77,
         "size": 7216,
         "ayat": [
@@ -49241,7 +49241,7 @@ export default [
         "pr_title": "Kumpitaali",
         "ayat_number": 40,
         "ayat_img": require("./images/ayat/40.png"),
-        "ayat_url": "http://abousy.com/quran_audio/78_AlNaba.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/78_AlNaba.mp3",
         "page_number": 78,
         "size": 5856,
         "ayat": [
@@ -49584,7 +49584,7 @@ export default [
         "pr_title": "Ɗoofooji/Ɗuggitooji",
         "ayat_number": 46,
         "ayat_img": require("./images/ayat/46.png"),
-        "ayat_url": "http://abousy.com/quran_audio/79_AlAnNaziat.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/79_AlAnNaziat.mp3",
         "page_number": 79,
         "size": 6156,
         "ayat": [
@@ -49975,7 +49975,7 @@ export default [
         "pr_title": "Ɗuurnaare",
         "ayat_number": 42,
         "ayat_img": require("./images/ayat/42.png"),
-        "ayat_url": "http://abousy.com/quran_audio/80_AlAbasa.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/80_AlAbasa.mp3",
         "page_number": 80,
         "size": 4820,
         "ayat": [
@@ -50334,7 +50334,7 @@ export default [
         "pr_title": "Fiilaama Niɓɓere",
         "ayat_number": 29,
         "ayat_img": require("./images/ayat/29.png"),
-        "ayat_url": "http://abousy.com/quran_audio/81_AlTakwir.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/81_AlTakwir.mp3",
         "page_number": 81,
         "size": 4600,
         "ayat": [
@@ -50589,7 +50589,7 @@ export default [
         "pr_title": "Pusgol",
         "ayat_number": 19,
         "ayat_img": require("./images/ayat/19.png"),
-        "ayat_url": "http://abousy.com/quran_audio/82_AlInfitar.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/82_AlInfitar.mp3",
         "page_number": 82,
         "size": 3244,
         "ayat": [
@@ -50764,7 +50764,7 @@ export default [
         "pr_title": "Ŋosooɓe/ŋakkinooɓe",
         "ayat_number": "36",
         "ayat_img": require("./images/ayat/36.png"),
-        "ayat_url": "http://abousy.com/quran_audio/83_AlMoutafifin.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/83_AlMoutafifin.mp3",
         "page_number": 83,
         "size": 6580,
         "ayat": [
@@ -51075,7 +51075,7 @@ export default [
         "pr_title": "Seekannde/Feecannde",
         "ayat_number": 25,
         "ayat_img": require("./images/ayat/25.png"),
-        "ayat_url": "http://abousy.com/quran_audio/84_AlInchiqaq.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/84_AlInchiqaq.mp3",
         "page_number": 84,
         "size": 3780,
         "ayat": [
@@ -51298,7 +51298,7 @@ export default [
         "pr_title": "Ɗaccuki/Ñukkalnde koode ",
         "ayat_number": 22,
         "ayat_img": require("./images/ayat/22.png"),
-        "ayat_url": "http://abousy.com/quran_audio/85_AlBourouj.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/85_AlBourouj.mp3",
         "page_number": 85,
         "size": 3812,
         "ayat": [
@@ -51497,7 +51497,7 @@ export default [
         "pr_title": "Roƴoore",
         "ayat_number": 17,
         "ayat_img": require("./images/ayat/17.png"),
-        "ayat_url": "http://abousy.com/quran_audio/86_AlTariq.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/86_AlTariq.mp3",
         "page_number": 86,
         "size": 2304,
         "ayat": [
@@ -51656,7 +51656,7 @@ export default [
         "pr_title": "Toowal",
         "ayat_number": 19,
         "ayat_img": require("./images/ayat/19.png"),
-        "ayat_url": "http://abousy.com/quran_audio/87_AlAlah.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/87_AlAlah.mp3",
         "page_number": 87,
         "size": 2444,
         "ayat": [
@@ -51831,7 +51831,7 @@ export default [
         "pr_title": "Soomoore/hippoore",
         "ayat_number": 26,
         "ayat_img": require("./images/ayat/26.png"),
-        "ayat_url": "http://abousy.com/quran_audio/88_AlGhachiyah.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/88_AlGhachiyah.mp3",
         "page_number": 88,
         "size": 3288,
         "ayat": [
@@ -52062,7 +52062,7 @@ export default [
         "pr_title": "Weetndooga",
         "ayat_number": 30,
         "ayat_img": require("./images/ayat/30.png"),
-        "ayat_url": "http://abousy.com/quran_audio/89_AlFajr.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/89_AlFajr.mp3",
         "page_number": 89,
         "size": 4504,
         "ayat": [
@@ -52325,7 +52325,7 @@ export default [
         "pr_title": "Wuro",
         "ayat_number": 20,
         "ayat_img": require("./images/ayat/20.png"),
-        "ayat_url": "http://abousy.com/quran_audio/90_AlBalad.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/90_AlBalad.mp3",
         "page_number": 90,
         "size": 2708,
         "ayat": [
@@ -52508,7 +52508,7 @@ export default [
         "pr_title": "Naange",
         "ayat_number": 15,
         "ayat_img": require("./images/ayat/15.png"),
-        "ayat_url": "http://abousy.com/quran_audio/91_AlAchchams.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/91_AlAchchams.mp3",
         "page_number": 91,
         "size": 2060,
         "ayat": [
@@ -52651,7 +52651,7 @@ export default [
         "pr_title": "Jamma",
         "ayat_number": 21,
         "ayat_img": require("./images/ayat/21.png"),
-        "ayat_url": "http://abousy.com/quran_audio/92_AlLail.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/92_AlLail.mp3",
         "page_number": 92,
         "size": 2648,
         "ayat": [
@@ -52842,7 +52842,7 @@ export default [
         "pr_title": "Beete",
         "ayat_number": 11,
         "ayat_img": require("./images/ayat/11.png"),
-        "ayat_url": "http://abousy.com/quran_audio/93_AlDouha.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/93_AlDouha.mp3",
         "page_number": 93,
         "size": 1512,
         "ayat": [
@@ -52953,7 +52953,7 @@ export default [
         "pr_title": "Sukkitoore",
         "ayat_number": 8,
         "ayat_img": require("./images/ayat/8.png"),
-        "ayat_url": "http://abousy.com/quran_audio/94_AlAchcharh.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/94_AlAchcharh.mp3",
         "page_number": 94,
         "size": 984,
         "ayat": [
@@ -53040,7 +53040,7 @@ export default [
         "pr_title": "Lekki Tiini",
         "ayat_number": 8,
         "ayat_img": require("./images/ayat/8.png"),
-        "ayat_url": "http://abousy.com/quran_audio/95_ATTin.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/95_ATTin.mp3",
         "page_number": 95,
         "size": 1316,
         "ayat": [
@@ -53127,7 +53127,7 @@ export default [
         "pr_title": "Heɗɗere",
         "ayat_number": 19,
         "ayat_img": require("./images/ayat/19.png"),
-        "ayat_url": "http://abousy.com/quran_audio/96_AlAlaq.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/96_AlAlaq.mp3",
         "page_number": 96,
         "size": 2316,
         "ayat": [
@@ -53302,7 +53302,7 @@ export default [
         "pr_title": "Hoddiro",
         "ayat_number": 5,
         "ayat_img": require("./images/ayat/5.png"),
-        "ayat_url": "http://abousy.com/quran_audio/97_AlQadr.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/97_AlQadr.mp3",
         "page_number": 97,
         "size": 1024,
         "ayat": [
@@ -53365,7 +53365,7 @@ export default [
         "pr_title": "Feññinoore",
         "ayat_number": 8,
         "ayat_img": require("./images/ayat/8.png"),
-        "ayat_url": "http://abousy.com/quran_audio/98_AlBaiyinah.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/98_AlBaiyinah.mp3",
         "page_number": 98,
         "size": 3000,
         "ayat": [
@@ -53452,7 +53452,7 @@ export default [
         "pr_title": "Jerɓugol",
         "ayat_number": 8,
         "ayat_img": require("./images/ayat/8.png"),
-        "ayat_url": "http://abousy.com/quran_audio/99_AlZalzalah.mp3 ",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/99_AlZalzalah.mp3 ",
         "page_number": 99,
         "size": 1288,
         "ayat": [
@@ -53539,7 +53539,7 @@ export default [
         "pr_title": "Dogooji",
         "ayat_number": 11,
         "ayat_img": require("./images/ayat/10.png"),
-        "ayat_url": "http://abousy.com/quran_audio/100_AlAdiyat.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/100_AlAdiyat.mp3",
         "page_number": 100,
         "size": 1412,
         "ayat": [
@@ -53650,7 +53650,7 @@ export default [
         "pr_title": "Duɗɗoore",
         "ayat_number": 11,
         "ayat_img": require("./images/ayat/10.png"),
-        "ayat_url": "http://abousy.com/quran_audio/101_AlQariah.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/101_AlQariah.mp3",
         "page_number": 101,
         "size": 1328,
         "ayat": [
@@ -53761,7 +53761,7 @@ export default [
         "pr_title": "Ɓuraa-ɓuraa",
         "ayat_number": 8,
         "ayat_img": require("./images/ayat/8.png"),
-        "ayat_url": "http://abousy.com/quran_audio/102_AtTakasour.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/102_AtTakasour.mp3",
         "page_number": 102,
         "size": 1188,
         "ayat": [
@@ -53848,7 +53848,7 @@ export default [
         "pr_title": "Tumaare",
         "ayat_number": 3,
         "ayat_img": require("./images/ayat/3.png"),
-        "ayat_url": "http://abousy.com/quran_audio/103_AlAsr.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/103_AlAsr.mp3",
         "page_number": 103,
         "size": 572,
         "ayat": [
@@ -53895,7 +53895,7 @@ export default [
         "pr_title": "Ñohooɓe",
         "ayat_number": 9,
         "ayat_img": require("./images/ayat/9.png"),
-        "ayat_url": "http://abousy.com/quran_audio/104_AlHumazah.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/104_AlHumazah.mp3",
         "page_number": 104,
         "size": 1140,
         "ayat": [
@@ -53990,7 +53990,7 @@ export default [
         "pr_title": "Ñiiwa",
         "ayat_number": 5,
         "ayat_img": require("./images/ayat/5.png"),
-        "ayat_url": "http://abousy.com/quran_audio/105_AlFil.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/105_AlFil.mp3",
         "page_number": 105,
         "size": 824,
         "ayat": [
@@ -54053,7 +54053,7 @@ export default [
         "pr_title": "Khuraysiyaŋkooɓe",
         "ayat_number": 4,
         "ayat_img": require("./images/ayat/4.png"),
-        "ayat_url": "http://abousy.com/quran_audio/106_Qourach.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/106_Qourach.mp3",
         "page_number": 106,
         "size": 780,
         "ayat": [
@@ -54108,7 +54108,7 @@ export default [
         "pr_title": "Genduɗe/Kuutorɗe",
         "ayat_number": 7,
         "ayat_img": require("./images/ayat/7.png"),
-        "ayat_url": "http://abousy.com/quran_audio/107_AlMahoun.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/107_AlMahoun.mp3",
         "page_number": 107,
         "size": 1020,
         "ayat": [
@@ -54187,7 +54187,7 @@ export default [
         "pr_title": "Weendu Kawsara",
         "ayat_number": 3,
         "ayat_img": require("./images/ayat/3.png"),
-        "ayat_url": "http://abousy.com/quran_audio/108_AlKawsar.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/108_AlKawsar.mp3",
         "page_number": 108,
         "size": 504,
         "ayat": [
@@ -54234,7 +54234,7 @@ export default [
         "pr_title": "Yedduɓe",
         "ayat_number": 6,
         "ayat_img": require("./images/ayat/6.png"),
-        "ayat_url": "http://abousy.com/quran_audio/109_AlKafiroun.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/109_AlKafiroun.mp3",
         "page_number": 109,
         "size": 1104,
         "ayat": [
@@ -54305,7 +54305,7 @@ export default [
         "pr_title": "Faabu/Ballal",
         "ayat_number": 3,
         "ayat_img": require("./images/ayat/3.png"),
-        "ayat_url": "http://abousy.com/quran_audio/110_AnNasr.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/110_AnNasr.mp3",
         "page_number": 110,
         "size": 764,
         "ayat": [
@@ -54352,7 +54352,7 @@ export default [
         "pr_title": "Baaji",
         "ayat_number": 5,
         "ayat_img": require("./images/ayat/5.png"),
-        "ayat_url": "http://abousy.com/quran_audio/111_AlMasad.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/111_AlMasad.mp3",
         "page_number": 111,
         "size": 804,
         "ayat": [
@@ -54415,7 +54415,7 @@ export default [
         "pr_title": "Laɓɓinoore",
         "ayat_number": 4,
         "ayat_img": require("./images/ayat/4.png"),
-        "ayat_url": "http://abousy.com/quran_audio/112_AlIkhlas.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/112_AlIkhlas.mp3",
         "page_number": 112,
         "size": 504,
         "ayat": [
@@ -54470,7 +54470,7 @@ export default [
         "pr_title": "Weetndooga",
         "ayat_number": 5,
         "ayat_img": require("./images/ayat/5.png"),
-        "ayat_url": "http://abousy.com/quran_audio/113_AlFalaq.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/113_AlFalaq.mp3",
         "page_number": 113,
         "size": 684,
         "ayat": [
@@ -54533,7 +54533,7 @@ export default [
         "pr_title": "Yimɓe",
         "ayat_number": 6,
         "ayat_img": require("./images/ayat/6.png"),
-        "ayat_url": "http://abousy.com/quran_audio/114_AnNas.mp3",
+        "ayat_url": "http://146.190.150.139:8080/downloads/quran/114_AnNas.mp3",
         "page_number": 114,
         "size": 864,
         "ayat": [

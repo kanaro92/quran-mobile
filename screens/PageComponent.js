@@ -66,7 +66,7 @@ class PageComponent extends Component {
 
     onItemSelect(index) {
         console.log("index "+index)
-        appService.setIndexSubject(index);
+        // appService.setIndexSubject(index);
     }
 }
 
@@ -110,9 +110,11 @@ const styles = StyleSheet.create({
     },
     pr_title_text: {
         fontSize: 13,
+        color: '#000'
     },
     ar_title_text: {
         fontSize: 16,
+        color: '#000'
     },
     separator: {
         width: "100%",
